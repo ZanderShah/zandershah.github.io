@@ -1,2 +1,2 @@
 # zandershah.me
-Personal website 
+Personal Website 
