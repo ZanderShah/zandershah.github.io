@@ -11,7 +11,7 @@ class App extends Component {
       margin: '0',
       padding: '0',
       overflow: 'hidden',
-      backgroundColor: '#333', 
+      backgroundColor: '#222', 
     }
 
     const tabs = {
@@ -29,9 +29,9 @@ class App extends Component {
             <li style={{float: 'left'}}>
               <NavHoverable to='/' style={tabs} exact activeStyle={{color: 'indianred'}}>Home</NavHoverable>
             </li>
-            <li style={{float: 'left'}}>
+            {/* <li style={{float: 'left'}}>
               <NavHoverable to='/food' style={tabs} activeStyle={{color: 'indianred'}}>Food</NavHoverable>
-            </li>
+            </li> */}
           </ul>
         </nav>
         <div>
