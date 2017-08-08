@@ -1,2 +1,2 @@
-# zandershah.me
+# zandershah.github.io
 Personal Website 
