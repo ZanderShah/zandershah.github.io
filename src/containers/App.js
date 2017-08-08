@@ -8,8 +8,8 @@ class App extends Component {
   render() {
     const uls = {
       listStyleType: 'none',
-      margin: '0',
-      padding: '0',
+      margin: 0,
+      padding: 0,
       overflow: 'hidden',
       backgroundColor: '#222', 
     }
@@ -29,9 +29,9 @@ class App extends Component {
             <li style={{float: 'left'}}>
               <NavHoverable to='/' style={tabs} exact activeStyle={{color: 'indianred'}}>Home</NavHoverable>
             </li>
-            {/* <li style={{float: 'left'}}>
+            <li style={{float: 'left'}}>
               <NavHoverable to='/food' style={tabs} activeStyle={{color: 'indianred'}}>Food</NavHoverable>
-            </li> */}
+            </li> 
           </ul>
         </nav>
         <div>

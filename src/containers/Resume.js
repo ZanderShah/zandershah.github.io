@@ -6,9 +6,9 @@ import PDF from '../resume.pdf';
 class Resume extends Component {
   render() {
     const tight = {
-      marginTop: '5',
-      marginBottom: '5',
-      padding: '0',
+      marginTop: '5px',
+      marginBottom: '5px',
+      padding: 0,
     }
 
     return (
