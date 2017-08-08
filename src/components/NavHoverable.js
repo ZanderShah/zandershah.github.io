@@ -12,7 +12,7 @@ class NavHoverable extends Component {
   style = () => {
     if (this.state.hovered) {
       return {
-        backgroundColor: '#333'
+        backgroundColor: '#111'
       }
     } else {
       return {}

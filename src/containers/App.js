@@ -27,16 +27,22 @@ class App extends Component {
         <nav>
           <ul style={uls}>
             <li style={{float: 'left'}}>
-              <NavHoverable to='/' style={tabs} exact activeStyle={{color: 'indianred'}}>Home</NavHoverable>
+              <span style={{...tabs, ...{backgroundColor: 'indianred', color: '#111'}}}>ZS</span>
             </li>
             <li style={{float: 'left'}}>
-              <NavHoverable to='/food' style={tabs} activeStyle={{color: 'indianred'}}>Food</NavHoverable>
+              <NavHoverable to='/' style={tabs}>Home</NavHoverable>
+            </li>
+            <li style={{float: 'left'}}>
+              <NavHoverable to='/summoners-war' style={tabs}>SW</NavHoverable>
+            </li>
+            <li style={{float: 'left'}}>
+              <NavHoverable to='/toronto-food' style={tabs}>Food</NavHoverable>
             </li> 
           </ul>
         </nav>
         <div>
           <Route exact path='/' component={Resume} />
-          <Route path='/food' component={Food} />
+          <Route path='/toronto-food' component={Food} />
         </div>
       </div>
     );
