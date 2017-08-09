@@ -28,9 +28,9 @@ class Food extends Component {
     return (
       <div style={{textAlign: 'center'}}>
         <h1 style={{marginBottom: '5px'}}>Toronto Meals</h1>
-        <h5 style={{marginTop: '5px'}}>{this.state.meals.length} places I ate lunch at over my summer 2017 coop</h5>
+        <h5 style={{marginTop: '5px'}}>{this.state.meals.length}+ places I ate lunch at over my summer 2017 coop</h5>
         <Map center={position} zoom={15} style={{width: '90vw', margin: '0 5vw', height: '500px'}} attributionControl={false}>
-          <TileLayer url={lightUrl + c['mapboxAccessToken']} attribution='' />
+          <TileLayer url={darkUrl + c['mapboxAccessToken']} attribution='' />
           {this.state.meals.map((meal, i) =>
             <Marker key={i} position={meal['position']}>
               <Popup>
