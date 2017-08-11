@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Switch, Route } from 'react-router-dom';
-import Food from '../containers/Food';
+import { FoodMap, FoodUI } from '../containers/Food';
 import Resume from '../containers/Resume';
 import NavHoverable from '../components/NavHoverable';
 
@@ -26,7 +26,7 @@ class App extends Component {
       <div>
         <nav>
           <ul style={uls}>
-            <li style={{float: 'left'}}>
+            <li style={{float: 'right'}}>
               <span style={{...tabs, ...{backgroundColor: 'indianred', color: '#111'}}}>ZS</span>
             </li>
             <li style={{float: 'left'}}>
@@ -40,10 +40,8 @@ class App extends Component {
             </li> 
           </ul>
         </nav>
-        <Switch>
-          <Route exact path='/' component={Resume} />
-          <Route path='/toronto-food' component={Food} />
-        </Switch>
+        <Route exact path='/' component={Resume} />
+        <Route path='/toronto-food' component={FoodMap} />
       </div>
     );
   }

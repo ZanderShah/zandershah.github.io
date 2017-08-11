@@ -5,7 +5,15 @@ import { c, t_maps } from '../utils/constants';
 const position = [43.650270, -79.388800];
 const lightUrl = 'https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=';
 
-class Food extends Component {
+const tabs = {
+  display: 'block',
+  textAlign: 'center',
+  textDecoration: 'none',
+  padding: '10px',
+  color: 'white',
+}
+
+export class FoodMap extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -31,4 +39,12 @@ class Food extends Component {
   }
 }
 
-export default Food;
+export class FoodUI extends Component {
+  render() {
+    return (
+      <li style={{float: 'left'}}>
+        <span style={{...tabs, ...{backgroundColor: 'indianred', color: '#111'}}}>ZS</span>
+      </li>
+    );
+  }
+}
