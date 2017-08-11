@@ -3,14 +3,14 @@ import IconHoverable from '../components/IconHoverable';
 import { FaFacebook, FaGithub, FaTwitter, FaLinkedin, FaFileTextO } from 'react-icons/lib/fa';
 import PDF from '../resume.pdf';
 
+const tight = {
+  marginTop: '5px',
+  marginBottom: '5px',
+  padding: 0,
+}
+
 class Resume extends Component {
   render() {
-    const tight = {
-      marginTop: '5px',
-      marginBottom: '5px',
-      padding: 0,
-    }
-
     return (
       <div style={{textAlign: 'center', paddingTop: '30vh'}}> 
         <h1 style={tight}>Alexander Shah</h1>
