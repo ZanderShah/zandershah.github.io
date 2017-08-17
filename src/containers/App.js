@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
-import { Switch, Route } from 'react-router-dom';
-import { FoodMap, FoodUI } from '../containers/Food';
+import { Route } from 'react-router-dom';
+import SummonersWar from '../containers/SummonersWar';
+import Food from '../containers/Food';
 import Resume from '../containers/Resume';
 import NavHoverable from '../components/NavHoverable';
 
@@ -32,16 +33,17 @@ class App extends Component {
             <li style={{float: 'left'}}>
               <NavHoverable to='/' style={tabs}>Home</NavHoverable>
             </li>
-            {/* <li style={{float: 'left'}}>
-              <NavHoverable to='/summoners-war' style={tabs}>SW</NavHoverable>
-            </li> */}
             <li style={{float: 'left'}}>
-              <NavHoverable to='/toronto-food' style={tabs}>Food</NavHoverable>
+              <NavHoverable to='/toronto-food' style={tabs}>Food Map</NavHoverable>
             </li> 
+            <li style={{float: 'left'}}>
+              <NavHoverable to='/summoners-war' style={tabs}>Summoners War</NavHoverable>
+            </li>
           </ul>
         </nav>
         <Route exact path='/' component={Resume} />
-        <Route path='/toronto-food' component={FoodMap} />
+        <Route path='/summoners-war' component={SummonersWar} />
+        <Route path='/toronto-food' component={Food} />
       </div>
     );
   }
