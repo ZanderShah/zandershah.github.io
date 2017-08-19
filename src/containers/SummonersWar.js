@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import request from 'request';
 
 class SummonersWar extends Component {
   render() {

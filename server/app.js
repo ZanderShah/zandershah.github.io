@@ -1,20 +1,22 @@
 const express = require('express');
 const path = require('path');
-const bodyParser = require('body-parser')
+const bodyParser = require('body-parser');
+const client = require('./database');
 
 const app = express();
 app.use(bodyParser.json());
 app.use(express.static(path.resolve(__dirname, '..', 'build')));
 
-app.get('*', (req, res) => {
+app.get('/', (req, res) => {
   res.sendFile(path.resolve(__dirname, '..', 'build', 'index.html'));
 });
 
-app.post('/summoners-war/run', (req, res) => {
-  var ret = {
-    message: 'Hello There',
-  }
-  res.status(200).json(ret);
+app.get('/summoners-war/get', (req, res) => {
+  res.send('[Get] Hello There');
+});
+
+app.post('/summoners-war/get', (req, res) => {
+  res.send('[Post] Hello There');
 });
 
 module.exports = app;
