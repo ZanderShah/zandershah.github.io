@@ -3,5 +3,5 @@
 const app = require('./app');
 
 app.listen(9000, 'localhost', () => {
-  console.log(`App listening on port ${PORT}!`);
+  console.log('Server Connected');
 });
