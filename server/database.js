@@ -1,7 +1,7 @@
 const { Client } = require('pg')
-const { c } = require('../src/utils/constants');
+const { databaseConfig } = require('./config');
 
-const client = new Client(c['databaseConfig']);
+const client = new Client(databaseConfig);
 
 client.connect((err) => {
   if (err) {
