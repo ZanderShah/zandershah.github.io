@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 class SummonersWar extends Component {
   constructor(props) {
     super(props);
+    this.state = {}
   }
 
   componentDidMount = () => {

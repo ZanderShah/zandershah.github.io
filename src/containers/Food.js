@@ -14,6 +14,7 @@ const lis = {
 class Food extends Component {
   constructor(props) {
     super(props);
+    this.state = {}
   }
 
   componentDidMount = () => {
