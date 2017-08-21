@@ -8,11 +8,6 @@ const app = express();
 app.use(bodyParser.json());
 app.use(express.static(path.resolve(__dirname, '..', 'build')));
 
-app.get('/api/*', (req, res, next) => {
-  console.log(req.ip);
-  next();
-})
-
 app.get('/api/food-map', (req, result) => {
   result.json({
     meals: t_maps,
