@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 const bodyParser = require('body-parser');
 const client = require('./database');
-const { mapboxAccessToken, t_maps, whitelist } = require('./config');
+const { mapboxAccessToken, t_maps, whitelist, secret } = require('./config');
 
 const app = express();
 app.use(bodyParser.json());
@@ -21,7 +21,7 @@ app.get('/api/summoners-war', (req, result) => {
       console.log(err.stack);
     } else {
       ret = []
-      for (let row of res.rows) {
+      for (const row of res.rows) {
         if (whitelist.includes(row.dungeon)) {
           ret.push(row)
         }
@@ -35,8 +35,25 @@ app.get('*', (req, result) => {
   result.sendFile(path.resolve(__dirname, '..', 'build', 'index.html'));
 });
 
+app.post('/api/*', (req, result, next) => {
+  if (req.headers['X-Access-Token'] === secret) {
+    next();
+  } 
+});
+
 app.post('/api/summoners-war', (req, result) => {
-  console.log(req);
+  const body = req.body
+  const query = {
+    text: 'insert into sw(date, dungeon, time, team1, team2, team3, team4, team5) values ($1, $2, $3, $4, $5, $6, $7, $8)',
+    values: body.data
+  }
+  client.query(query, (err, res) => {
+    if (err) {
+      console.log(err.stack);
+    } else {
+      result.status(200).json(query);
+    }
+  });
 });
 
 module.exports = app;
