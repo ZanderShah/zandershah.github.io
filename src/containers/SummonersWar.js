@@ -20,7 +20,7 @@ class SummonersWar extends Component {
         <div style={{textAlign: 'center'}}>
           <h1>In Progress</h1>
           {this.state.runs.map((row) => 
-            <h5>{row['name']}</h5> 
+            <h5>{row['dungeon']}</h5> 
           )}
         </div>
       );

@@ -16,7 +16,7 @@ app.get('/api/food-map', (req, result) => {
 });
 
 app.get('/api/summoners-war', (req, result) => {
-  client.query('select name from test order by timestamp desc limit 5', (err, res) => {
+  client.query('select * from sw order by date desc limit 10', (err, res) => {
     if (err) {
       console.log(err.stack);
     } else {
@@ -30,7 +30,7 @@ app.get('*', (req, result) => {
 });
 
 app.post('/api/summoners-war', (req, result) => {
-  result.send('[Post] Hello There');
+  console.log(req);
 });
 
 module.exports = app;
