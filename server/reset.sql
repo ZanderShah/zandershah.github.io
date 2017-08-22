@@ -12,4 +12,4 @@ create table sw (
 );
 create index dungeon_id on sw(dungeon);
 
-copy sw(date, dungeon, time, team1, team2, team3, team4, team5) from '/srv/www/zandershah.github.io/ZSHAH-7949595-runs.csv' csv header;
+copy sw(date, dungeon, time, team1, team2, team3, team4, team5) from '/srv/www/zandershah.github.io/sw-runs.csv' csv header;
