@@ -1,0 +1,440 @@
+date,dungeon,result,time,mana,crystal,energy,drop,grade,sell_value,set,efficiency,slot,rarity,main_stat,prefix_stat,sub1,sub2,sub3,sub4,team1,team2,team3,team4,team5
+2017-08-09 11:26,Hall of Water B7,Win,1:05,2127,0,2,Essence of Water(Mid) x2,,,,,,,,,,,,,Lushen,Belladeon,Bernard,Veromos,Megan
+2017-08-09 11:29,Hall of Magic B10,Win,1:35,2735,0,1,Unknown Scroll x6,,,,,,,,,,,,,Sigmarus,Veromos,Belladeon,Megan,Verdehile
+2017-08-09 11:33,"Giant's Keep B10",Win,2:24,4000,0,2,Rune,5*,5737,Blade,39.57,3,Hero,DEF +15,,Accuracy 3%,Resistance 3%,CRI Dmg 4%,,Lushen,Megan,Bernard,Belladeon,Veromos
+2017-08-09 11:37,"Giant's Keep B10",Win,2:00,3788,0,0,Rune,5*,5440,Swift,43.58,5,Rare,HP +270,,Resistance 5%,SPD +5,,,Lushen,Megan,Bernard,Sigmarus,Veromos
+2017-08-09 11:40,"Giant's Keep B10",Win,2:10,3867,0,2,Rune,5*,5440,Energy,47.21,5,Rare,HP +270,DEF +11,DEF 6%,SPD +4,,,Lushen,Megan,Bernard,Sigmarus,Veromos
+2017-08-09 11:43,"Dragon's Lair B10",Win,2:43,4336,1,1,Rune,5*,11560,Revenge,45.84,6,Rare,HP +270,ATK +9,DEF +14,HP 5%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-09 11:46,"Dragon's Lair B10",Win,2:32,4193,1,1,Rune,6*,19020,Guard,58.99,2,Hero,ATK 11%,Accuracy 7%,CRI Rate 5%,DEF +11,SPD +6,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-09 11:50,"Dragon's Lair B10",Win,2:31,4536,0,0,Rune Piece x10,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-09 11:53,"Dragon's Lair B10",Win,2:28,3742,0,0,Rune,5*,11560,Revenge,41.65,6,Rare,HP 8%,ATK 5%,DEF +11,HP +228,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-09 11:56,"Dragon's Lair B10",Win,2:25,4455,0,0,Rune,5*,12240,Violent,39.06,4,Rare,DEF +15,,HP 5%,ATK 5%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-09 11:59,"Dragon's Lair B10",Win,2:21,4080,0,1,Rune,5*,12920,Revenge,42.49,1,Rare,ATK +15,HP +180,SPD +3,ATK 6%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-09 12:02,"Dragon's Lair B10",Win,2:38,4404,0,1,Rune,5*,11305,Revenge,41.74,1,Rare,ATK +15,,Resistance 7%,HP 6%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-09 12:05,"Dragon's Lair B10",Win,2:39,4278,0,0,Symbol of Chaos x5,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-09 12:11,"Dragon's Lair B10",Win,2:34,4265,0,0,Rune,6*,21556,Violent,47.32,6,Rare,DEF +22,,Accuracy 7%,ATK 6%,,,Verdehile,Veromos,Megan,Belladeon,
+2017-08-09 12:17,"Dragon's Lair B10",Win,3:08,4274,0,0,Symbol of Transcendance x10,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,
+2017-08-09 20:32,"Dragon's Lair B10",Win,13:34,4242,0,1,Rune,5*,11560,Shield,40.14,6,Rare,DEF 8%,Accuracy 4%,CRI Rate 3%,CRI Dmg 4%,,,Verdehile,Veromos,Belladeon,Megan,Sigmarus
+2017-08-09 21:13,"Dragon's Lair B10",Win,2:43,4148,0,1,Rune,5*,10200,Guard,45.44,2,Hero,ATK 8%,HP +118,Accuracy 6%,DEF 4%,Resistance 6%,,Verdehile,Veromos,Megan,Belladeon,Hwa
+2017-08-09 21:17,"Dragon's Lair B10",Win,3:32,4325,0,0,Rune,5*,11305,Revenge,39.96,1,Rare,ATK +15,,HP 4%,Accuracy 7%,,,Verdehile,Veromos,Megan,Belladeon,Hwa
+2017-08-09 21:56,"Dragon's Lair B10",Win,2:54,4516,1,3,Rune,5*,15300,Violent,49.12,2,Hero,HP +270,,SPD +5,ATK +13,HP 6%,,Verdehile,Veromos,Megan,Belladeon,Hwa
+2017-08-10 10:02,Hall of Wind B7,Win,0:41,2368,0,1,Essence of Wind(High) x1,,,,,,,,,,,,,Hwa,Verdehile,Lushen,Veromos,
+2017-08-10 10:12,"Dragon's Lair B10",Win,2:35,4770,0,1,Rune,5*,5780,Focus,39.71,6,Rare,Accuracy 9%,,DEF +14,Resistance 7%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-10 10:16,"Dragon's Lair B10",Win,2:15,4405,0,2,Symbol of Transcendance x9,,,,,,,,,,,,,Verdehile,Veromos,Megan,Sigmarus,
+2017-08-10 10:19,Tamor Desert Hell - 3,Win,1:09,1179,0,1,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:20,Tamor Desert Hell - 3,Win,0:34,1321,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:22,Faimon Volcano Hell - 1,Win,1:51,1442,0,0,Rune,3*,3672,Revenge,26.12,1,Magic,ATK +7,SPD +3,ATK 2%,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:24,Faimon Volcano Hell - 1,Win,1:10,553,0,1,Hellhound (Fire) 2,,,,,,,,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:26,Faimon Volcano Hell - 1,Win,1:40,1909,0,1,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:28,Faimon Volcano Hell - 1,Win,1:31,1542,0,2,Solid Rock x2,,,,,,,,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:31,Faimon Volcano Hell - 1,Win,2:12,2570,0,0,Rune,4*,5236,Revenge,25.22,1,Common,ATK +10,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:33,Faimon Volcano Hell - 1,Win,2:16,2119,0,0,Rune,4*,6109,Revenge,28.79,1,Common,ATK +10,HP 4%,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:37,Faimon Volcano Hell - 1,Win,2:56,2048,0,0,Rune,4*,5236,Revenge,25.22,1,Common,ATK +10,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:39,Faimon Volcano Hell - 1,Win,1:55,1659,0,1,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:43,Faimon Volcano Hell - 1,Win,2:22,2071,0,0,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:46,Faimon Volcano Hell - 1,Win,2:22,1432,0,1,Salamander (Fire) 3,,,,,,,,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:52,Faimon Volcano Hell - 1,Win,1:25,1384,0,0,Unknown Scroll x5,,,,,,,,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:54,Faimon Volcano Hell - 1,Win,1:34,1242,0,1,Solid Rock x2,,,,,,,,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:56,Faimon Volcano Hell - 1,Win,1:56,1260,0,1,Rune,4*,5673,Revenge,28.79,1,Magic,ATK +10,,HP 4%,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 10:59,Faimon Volcano Hell - 1,Win,2:05,828,0,2,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Eladriel,Akhamamir,Mystic Witch (Wind),,
+2017-08-10 11:03,Faimon Volcano Hell - 1,Win,1:54,1538,0,1,Rune,4*,5236,Revenge,25.22,1,Common,ATK +10,,,,,,Eladriel,Akhamamir,Elemental (Wind),,
+2017-08-10 11:05,Faimon Volcano Hell - 1,Win,1:37,1892,0,0,Hellhound (Fire) 2,,,,,,,,,,,,,Eladriel,Akhamamir,Elemental (Wind),,
+2017-08-10 11:10,Faimon Volcano Hell - 1,Win,2:22,1745,0,2,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Eladriel,Akhamamir,Elemental (Wind),,
+2017-08-10 11:14,Faimon Volcano Hell - 1,Win,1:04,1644,0,0,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Eladriel,Hwa,Akhamamir,Elemental (Wind),
+2017-08-10 11:23,Tamor Desert Hell - 3,Win,2:41,1207,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Elemental (Wind),
+2017-08-10 11:30,Tamor Desert Hell - 3,Win,1:37,1942,0,1,Salamander (Wind) 2,,,,,,,,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Elemental (Wind),
+2017-08-10 11:31,Tamor Desert Hell - 3,Win,1:27,1709,0,0,Solid Rock x4,,,,,,,,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Elemental (Wind),
+2017-08-10 11:34,Tamor Desert Hell - 3,Win,1:43,1386,0,1,Rune,4*,2756,Endure,27.60,3,Common,DEF +10,CRI Rate 2%,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 11:37,Tamor Desert Hell - 3,Win,1:28,1264,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 11:39,Tamor Desert Hell - 3,Win,1:29,1699,0,1,Rune,3*,1546,Endure,22.54,3,Common,DEF +7,DEF 2%,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 11:41,Tamor Desert Hell - 3,Win,1:40,2268,0,3,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 11:44,Tamor Desert Hell - 3,Win,1:42,1354,0,3,Rune,3*,1352,Endure,23.44,3,Magic,DEF +7,,Accuracy 3%,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 11:46,Tamor Desert Hell - 3,Win,1:31,1260,0,0,Rune,5*,3825,Endure,30.13,3,Common,DEF +15,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 11:48,Tamor Desert Hell - 3,Win,1:20,2281,0,0,Rune,3*,1546,Endure,22.54,3,Common,DEF +7,DEF 2%,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 11:50,Tamor Desert Hell - 3,Win,1:41,1374,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 11:52,Tamor Desert Hell - 3,Win,1:29,965,0,1,Rune,5*,3825,Endure,30.13,3,Common,DEF +15,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 11:54,Tamor Desert Hell - 3,Win,1:42,1560,0,2,Salamander (Wind) 2,,,,,,,,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 11:56,Tamor Desert Hell - 3,Win,1:38,1377,0,1,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 11:57,Tamor Desert Hell - 3,Win,1:32,1565,0,1,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 12:01,Tamor Desert Hell - 3,Win,1:27,1108,0,3,Solid Rock x4,,,,,,,,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 12:03,Tamor Desert Hell - 3,Win,1:38,1152,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Bounty Hunter (Wind),Akhamamir,Lisa,
+2017-08-10 12:53,Tamor Desert Hell - 3,Win,1:26,1629,0,1,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Salamander (Wind),Akhamamir,Lisa,
+2017-08-10 12:56,Tamor Desert Hell - 3,Win,1:31,2472,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Eladriel,Salamander (Wind),Akhamamir,Lisa,
+2017-08-10 12:59,Tamor Desert Hell - 3,Win,1:45,1177,0,0,Shining Mithril x2,,,,,,,,,,,,,Eladriel,Salamander (Wind),Akhamamir,Lisa,
+2017-08-10 13:01,Tamor Desert Hell - 3,Win,1:37,1885,0,1,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Salamander (Wind),Akhamamir,Lisa,
+2017-08-10 13:04,Tamor Desert Hell - 3,Win,1:52,1168,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Salamander (Wind),Akhamamir,Lisa,
+2017-08-10 13:06,Tamor Desert Hell - 3,Win,1:54,1879,0,1,Rainbowmon 2,,,,,,,,,,,,,Eladriel,Salamander (Wind),Akhamamir,Lisa,
+2017-08-10 13:10,Tamor Desert Hell - 3,Win,1:34,1150,0,0,Sandman (Wind) 1,,,,,,,,,,,,,Eladriel,Salamander (Wind),Akhamamir,Lisa,
+2017-08-10 13:13,Tamor Desert Hell - 3,Win,1:17,927,0,0,Rune,3*,1546,Endure,24.33,3,Common,DEF +7,DEF 4%,,,,,Eladriel,Salamander (Wind),Akhamamir,Lisa,
+2017-08-10 13:17,Tamor Desert Hell - 3,Win,1:44,1322,0,0,Rune,5*,3825,Endure,30.13,3,Common,DEF +15,,,,,,Eladriel,Salamander (Wind),Akhamamir,Lisa,
+2017-08-10 13:19,Tamor Desert Hell - 3,Win,1:42,1433,0,1,Rune,5*,3825,Endure,30.13,3,Common,DEF +15,,,,,,Eladriel,Salamander (Wind),Akhamamir,Lisa,
+2017-08-10 13:21,Tamor Desert Hell - 3,Win,1:31,2338,0,2,Solid Rock x4,,,,,,,,,,,,,Eladriel,Salamander (Wind),Akhamamir,Lisa,
+2017-08-10 13:25,Tamor Desert Hell - 3,Win,1:19,1313,0,1,Rune,3*,1352,Endure,22.19,3,Magic,DEF +7,,HP +75,,,,Eladriel,Salamander (Wind),Akhamamir,Hellhound (Water),
+2017-08-10 13:27,Tamor Desert Hell - 3,Win,1:40,961,0,0,Rune,4*,2756,Endure,29.28,3,Common,DEF +10,HP +213,,,,,Eladriel,Salamander (Wind),Akhamamir,Hellhound (Water),
+2017-08-10 13:29,Tamor Desert Hell - 3,Win,1:32,2184,0,2,Rainbowmon 2,,,,,,,,,,,,,Eladriel,Salamander (Wind),Akhamamir,Hellhound (Water),
+2017-08-10 13:31,Tamor Desert Hell - 3,Win,1:41,1689,0,2,Unknown Scroll x5,,,,,,,,,,,,,Eladriel,Salamander (Wind),Akhamamir,Hellhound (Water),
+2017-08-10 13:33,Tamor Desert Hell - 3,Win,1:47,2032,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Salamander (Wind),Akhamamir,Hellhound (Water),
+2017-08-10 13:36,Tamor Desert Hell - 3,Win,1:40,1353,0,1,Solid Rock x3,,,,,,,,,,,,,Eladriel,Salamander (Wind),Akhamamir,Hellhound (Water),
+2017-08-10 13:40,Tamor Desert Hell - 3,Win,1:28,1230,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Eladriel,Daharenos,Akhamamir,Hellhound (Water),
+2017-08-10 13:42,Tamor Desert Hell - 3,Win,1:23,1666,0,0,Rune,4*,2756,Endure,29.69,3,Common,DEF +10,DEF 5%,,,,,Eladriel,Daharenos,Akhamamir,Hellhound (Water),
+2017-08-10 13:44,Tamor Desert Hell - 3,Win,1:31,1224,0,1,Shining Mithril x4,,,,,,,,,,,,,Eladriel,Daharenos,Akhamamir,Hellhound (Water),
+2017-08-10 13:46,Tamor Desert Hell - 3,Win,1:18,2024,0,0,Shining Mithril x2,,,,,,,,,,,,,Eladriel,Daharenos,Akhamamir,Hellhound (Water),
+2017-08-10 13:50,Tamor Desert Hell - 3,Win,1:19,1231,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Eladriel,Daharenos,Akhamamir,Sandman (Fire),
+2017-08-10 13:54,"Giant's Keep B10",Win,1:58,3936,0,2,Rune,5*,7267,Blade,42.42,1,Rare,ATK +15,CRI Rate 4%,CRI Dmg 3%,ATK 5%,,,Lushen,Megan,Bernard,Sigmarus,Veromos
+2017-08-10 13:57,Hall of Magic B10,Win,1:30,2596,0,1,Essence of Magic(Mid) x3,,,,,,,,,,,,,Sigmarus,Veromos,Belladeon,Megan,Verdehile
+2017-08-10 13:59,Tamor Desert Hell - 3,Win,1:30,1455,1,2,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:01,Tamor Desert Hell - 3,Win,1:33,1172,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:04,Tamor Desert Hell - 3,Win,1:20,1643,0,1,Solid Rock x4,,,,,,,,,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:06,Tamor Desert Hell - 3,Win,1:19,1556,0,1,Rune,3*,1546,Endure,23.44,3,Common,DEF +7,Accuracy 3%,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:07,Tamor Desert Hell - 3,Win,1:23,2023,0,1,Rune,4*,2411,Endure,27.01,3,Magic,DEF +10,,Accuracy 2%,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:09,Tamor Desert Hell - 3,Win,1:08,1404,0,0,Rune,3*,1352,Endure,23.60,3,Magic,DEF +7,,HP +149,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:12,Tamor Desert Hell - 3,Win,1:09,1680,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:14,Tamor Desert Hell - 3,Win,1:18,968,0,0,Salamander (Wind) 2,,,,,,,,,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:30,Tamor Desert Hell - 3,Win,1:28,2679,0,2,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:32,Tamor Desert Hell - 3,Win,1:21,1204,0,2,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:34,Tamor Desert Hell - 3,Win,1:10,1780,0,2,Solid Rock x2,,,,,,,,,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:36,Tamor Desert Hell - 3,Win,1:25,1799,0,1,Rune,4*,2756,Endure,27.90,3,Common,DEF +10,DEF 3%,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:38,Tamor Desert Hell - 3,Win,1:11,1583,0,2,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:40,Tamor Desert Hell - 3,Win,1:20,2338,0,1,Rune,5*,5100,Endure,36.38,3,Common,DEF +15,Accuracy 7%,,,,,Eladriel,Daharenos,Akhamamir,,
+2017-08-10 14:42,Tamor Desert Hell - 3,Win,1:16,1427,0,0,Rainbowmon 2,,,,,,,,,,,,,Eladriel,Imp Champion (Wind),Akhamamir,,
+2017-08-10 14:44,Tamor Desert Hell - 3,Win,1:23,1024,0,0,Unknown Scroll x5,,,,,,,,,,,,,Eladriel,Imp Champion (Wind),Akhamamir,,
+2017-08-10 14:46,Tamor Desert Hell - 3,Win,1:14,1739,0,1,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Eladriel,Imp Champion (Wind),Akhamamir,,
+2017-08-10 14:47,Tamor Desert Hell - 3,Win,1:06,1033,0,1,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Eladriel,Imp Champion (Wind),,,
+2017-08-10 14:50,Tamor Desert Hell - 3,Win,2:58,1387,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Imp Champion (Wind),,,
+2017-08-10 14:52,Tamor Desert Hell - 3,Win,1:17,884,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Eladriel,Imp Champion (Wind),,,
+2017-08-10 14:54,Tamor Desert Hell - 3,Win,1:13,1815,0,0,Rune,3*,1546,Endure,24.33,3,Common,DEF +7,HP 4%,,,,,Eladriel,Imp Champion (Wind),,,
+2017-08-10 14:55,Tamor Desert Hell - 3,Win,1:10,1601,0,2,Rune,3*,1352,Endure,22.53,3,Magic,DEF +7,,HP +93,,,,Eladriel,Imp Champion (Wind),,,
+2017-08-10 14:56,Tamor Desert Hell - 3,Win,0:55,2052,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Imp Champion (Wind),,,
+2017-08-10 15:00,Tamor Desert Hell - 3,Win,2:34,1608,0,4,Rune,5*,5100,Endure,36.38,3,Common,DEF +15,DEF 7%,,,,,Eladriel,Imp Champion (Wind),,,
+2017-08-10 15:05,Tamor Desert Hell - 3,Win,1:19,1675,0,2,Rainbowmon 2,,,,,,,,,,,,,Eladriel,Imp Champion (Wind),,,
+2017-08-10 15:07,Tamor Desert Hell - 3,Win,1:47,1443,0,0,Rune,4*,2411,Endure,28.28,3,Magic,DEF +10,,CRI Dmg 3%,,,,Eladriel,Imp Champion (Wind),,,
+2017-08-10 15:10,Tamor Desert Hell - 3,Win,2:21,1890,0,2,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Eladriel,Imp Champion (Wind),,,
+2017-08-10 15:19,"Giant's Keep B10",Win,3:01,3991,0,1,Rune,5*,8500,Swift,41.41,2,Rare,HP 8%,Resistance 5%,ATK 4%,DEF 5%,,,Sigmarus,Megan,Bernard,Veromos,Hwa
+2017-08-10 15:22,"Giant's Keep B10",Win,2:34,3959,1,1,Rune,5*,8075,Swift,44.12,1,Hero,ATK +15,,SPD +5,Resistance 5%,Accuracy 4%,,Sigmarus,Megan,Bernard,Belladeon,Hwa
+2017-08-10 15:24,"Giant's Keep B10",Win,1:45,3580,0,0,Rune,5*,6885,Blade,44.17,4,Rare,CRI Dmg 8%,HP +280,DEF 7%,Accuracy 4%,,,Lushen,Megan,Bernard,Belladeon,Sigmarus
+2017-08-10 15:29,"Giant's Keep B10",Win,1:53,3364,0,1,Rune,5*,5780,Energy,42.75,6,Rare,Resistance 9%,ATK 5%,HP 4%,DEF 7%,,,Lushen,Megan,Veromos,Belladeon,Sigmarus
+2017-08-10 15:35,"Giant's Keep B10",Win,2:04,3847,0,0,Rune,6*,8321,Fatal,48.21,3,Rare,DEF +22,,HP 6%,CRI Rate 6%,,,Lushen,Megan,Veromos,Belladeon,Sigmarus
+2017-08-10 15:40,"Giant's Keep B10",Win,1:58,4285,0,0,Rune,5*,20400,Despair,54.59,2,Legendary,SPD +5,Resistance 3%,ATK +15,Accuracy 4%,HP 5%,DEF 6%,Lushen,Megan,Veromos,Belladeon,Sigmarus
+2017-08-10 15:43,"Giant's Keep B10",Win,2:56,3759,0,0,Rune,6*,11412,Fatal,53.27,5,Hero,HP +360,,CRI Rate 5%,Resistance 5%,DEF 8%,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 15:46,"Giant's Keep B10",Win,2:14,3882,0,3,Rainbowmon 3,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 15:59,"Giant's Keep B10",Win,3:14,3625,0,2,Rune Piece x8,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:02,"Giant's Keep B10",Win,2:30,3816,0,0,Rune,5*,12920,Despair,41.74,1,Rare,ATK +15,,HP 7%,ATK 6%,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:07,"Giant's Keep B10",Win,2:40,3971,0,0,Symbol of Transcendance x4,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:11,"Giant's Keep B10",Win,2:36,3764,1,1,Rune,5*,5100,Energy,40.56,3,Hero,DEF +15,,CRI Dmg 3%,Resistance 3%,HP +246,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:16,"Giant's Keep B10",Win,3:01,4619,0,2,Rune,5*,5950,Blade,37.99,2,Rare,DEF +15,,CRI Rate 3%,ATK +12,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:20,"Giant's Keep B10",Win,2:29,4230,0,2,Rune,5*,4845,Energy,37.96,1,Rare,ATK +15,,SPD +4,CRI Dmg 3%,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:23,"Giant's Keep B10",Win,2:57,4018,0,2,Rune,5*,6800,Energy,55.19,5,Hero,HP +270,DEF 7%,Accuracy 4%,CRI Rate 5%,HP 7%,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:26,"Giant's Keep B10",Win,2:54,3780,0,1,Rune,5*,7267,Blade,45.61,1,Rare,ATK +15,Resistance 7%,HP 5%,CRI Rate 4%,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:32,"Giant's Keep B10",Win,3:00,3998,0,1,Rune,5*,6460,Swift,39.36,1,Rare,ATK +15,,HP 5%,SPD +4,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:35,"Giant's Keep B10",Win,2:33,4173,0,1,Rune,5*,5652,Blade,38.76,1,Rare,ATK +15,,Resistance 3%,CRI Rate 5%,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:41,"Giant's Keep B10",Win,2:31,3771,1,0,Rainbowmon 2,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:46,"Giant's Keep B10",Win,2:36,4007,0,2,Rune Piece x11,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:50,"Giant's Keep B10",Win,2:55,3692,0,1,Symbol of Chaos x5,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:53,"Giant's Keep B10",Win,2:37,4008,0,2,Rune,5*,5950,Blade,37.30,2,Rare,HP 8%,,ATK 5%,DEF +11,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:56,"Giant's Keep B10",Win,2:36,3737,0,1,Rune,5*,9350,Blade,50.46,2,Hero,SPD +5,CRI Rate 3%,Accuracy 6%,CRI Dmg 4%,ATK +12,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 16:59,"Giant's Keep B10",Win,2:39,3859,0,2,Symbol of Harmony x9,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 17:04,"Giant's Keep B10",Win,2:53,3541,0,1,Rune Piece x12,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 17:07,"Giant's Keep B10",Win,2:46,4300,0,1,Rune,5*,13600,Despair,54.89,5,Hero,HP +270,ATK 7%,DEF 7%,Accuracy 5%,CRI Rate 4%,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 17:10,"Giant's Keep B10",Win,2:33,3632,0,0,Rune,5*,4590,Energy,41.44,4,Rare,DEF +15,,HP 6%,CRI Rate 5%,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-10 17:15,"Giant's Keep B10",Win,2:43,3683,0,0,Rune,6*,9034,Energy,47.14,1,Rare,ATK +22,,CRI Rate 6%,HP +225,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 09:41,"Giant's Keep B10",Win,1:38,4321,0,2,Symbol of Chaos x4,,,,,,,,,,,,,Lushen,Megan,Sigmarus,Belladeon,Bernard
+2017-08-11 09:47,"Giant's Keep B10",Win,1:44,3779,0,1,Symbol of Harmony x10,,,,,,,,,,,,,Lushen,Megan,Sigmarus,Belladeon,Bernard
+2017-08-11 09:50,"Giant's Keep B10",Win,2:04,4377,0,1,Rune,5*,7225,Swift,41.26,6,Rare,Resistance 9%,DEF 5%,SPD +4,HP 4%,,,Lushen,Megan,Sigmarus,Belladeon,Akhamamir
+2017-08-11 10:34,"Giant's Keep B10",Win,2:38,3652,0,1,Summoning Stones x3,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-11 10:37,"Giant's Keep B10",Win,2:11,3986,0,2,Rainbowmon 3,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-11 10:39,"Giant's Keep B10",Win,1:54,3692,0,2,Rune,5*,18360,Despair,52.94,4,Legendary,HP 8%,Resistance 7%,CRI Dmg 5%,ATK +13,DEF 5%,SPD +3,Lushen,Megan,Sigmarus,Belladeon,Bernard
+2017-08-11 10:46,"Giant's Keep B10",Win,2:57,3781,1,1,Symbol of Chaos x6,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 10:49,"Giant's Keep B10",Win,2:36,3671,0,2,Rune,5*,5652,Blade,38.99,1,Rare,ATK +15,,HP +137,Resistance 7%,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 10:52,"Giant's Keep B10",Win,2:51,3776,0,1,Rune,5*,7267,Fatal,46.21,1,Hero,ATK +15,,ATK 7%,Accuracy 7%,CRI Rate 3%,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 10:55,"Giant's Keep B10",Win,2:50,3989,0,2,Rune,5*,8415,Fatal,48.57,4,Hero,CRI Rate 5%,Accuracy 4%,DEF +14,SPD +5,CRI Dmg 5%,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 10:58,"Giant's Keep B10",Win,2:36,4092,0,0,Rune,5*,6120,Fatal,44.80,5,Rare,HP +270,HP 4%,CRI Dmg 3%,DEF +14,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:02,"Giant's Keep B10",Win,2:36,3622,0,0,Rune,5*,13005,Despair,47.75,6,Rare,HP +270,Resistance 4%,CRI Rate 4%,ATK 7%,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:06,"Giant's Keep B10",Win,2:45,3626,0,2,Unknown Scroll x12,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:09,"Giant's Keep B10",Win,2:26,3930,0,3,Symbol of Chaos x6,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:15,"Giant's Keep B10",Win,3:04,3634,0,0,Rune,5*,8075,Energy,47.21,1,Hero,ATK +15,ATK 4%,Accuracy 5%,CRI Rate 5%,HP +162,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:19,"Giant's Keep B10",Win,2:47,3960,1,1,Rune,5*,7650,Blade,48.78,2,Rare,SPD +5,Accuracy 7%,DEF +13,HP +248,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:22,"Giant's Keep B10",Win,2:49,3638,0,0,Rune,5*,5737,Fatal,43.04,3,Rare,DEF +15,HP +135,HP 7%,CRI Dmg 4%,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:25,"Giant's Keep B10",Win,2:49,3839,0,0,Rune Piece x10,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:28,"Giant's Keep B10",Win,2:51,3559,0,2,Rainbowmon 3,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:33,"Giant's Keep B10",Win,4:06,3660,0,0,Rainbowmon 3,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:36,"Giant's Keep B10",Win,2:45,3332,0,1,Rainbowmon 2,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:39,"Giant's Keep B10",Win,2:54,3785,0,0,Symbol of Chaos x6,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:42,"Giant's Keep B10",Win,2:41,3305,0,0,Rune,5*,14025,Despair,46.76,3,Legendary,DEF +15,,CRI Rate 4%,SPD +3,HP +295,Resistance 3%,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:47,"Giant's Keep B10",Win,3:06,3661,0,1,Rune,5*,8500,Swift,44.95,2,Rare,HP +270,DEF +8,Accuracy 5%,DEF 5%,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:51,"Giant's Keep B10",Win,2:43,4362,0,1,Rune,5*,6375,Swift,41.89,3,Rare,DEF +15,SPD +3,HP +117,CRI Rate 5%,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:54,"Giant's Keep B10",Win,2:34,4088,0,4,Rune,5*,11560,Despair,38.73,6,Rare,HP 8%,,Accuracy 7%,ATK +10,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 11:58,"Giant's Keep B10",Win,2:36,4356,0,2,Rune Piece x11,,,,,,,,,,,,,Sigmarus,Megan,Veromos,Belladeon,Bernard
+2017-08-11 14:18,"Dragon's Lair B10",Win,2:44,4351,0,1,Symbol of Harmony x6,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 14:21,"Dragon's Lair B10",Win,2:56,4115,0,1,Symbol of Harmony x6,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 14:25,"Dragon's Lair B10",Win,2:50,4442,0,2,Rune,5*,5100,Guard,36.18,3,Rare,DEF +15,,CRI Dmg 4%,HP +103,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 14:28,"Dragon's Lair B10",Win,2:32,3951,0,0,Symbol of Harmony x5,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 14:31,"Dragon's Lair B10",Win,2:38,4036,1,1,Rune,5*,13600,Revenge,47.45,2,Rare,SPD +5,HP 6%,DEF +11,ATK +14,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 14:34,"Dragon's Lair B10",Win,2:49,4717,0,1,Rune,5*,6375,Guard,43.11,3,Rare,DEF +15,Accuracy 3%,CRI Dmg 5%,HP +273,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 14:40,"Dragon's Lair B10",Win,2:51,3809,0,1,Rune,5*,6460,Endure,40.85,1,Rare,ATK +15,,Resistance 6%,ATK 6%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 14:44,"Dragon's Lair B10",Win,2:39,4376,0,0,Rune,5*,10200,Shield,41.53,3,Rare,DEF +15,Accuracy 4%,CRI Rate 4%,CRI Dmg 3%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 14:48,"Dragon's Lair B10",Win,3:21,4218,0,1,Rune,5*,17000,Violent,47.53,2,Hero,ATK +15,CRI Dmg 5%,CRI Rate 4%,HP +208,HP 4%,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 14:52,"Dragon's Lair B10",Win,2:37,3937,0,1,Symbol of Transcendance x11,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 14:55,"Dragon's Lair B10",Win,2:29,4935,0,2,Symbol of Transcendance x10,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 14:58,"Dragon's Lair B10",Win,2:14,4310,0,1,Rune,6*,21556,Revenge,48.95,6,Rare,Resistance 12%,CRI Rate 5%,ATK +10,HP +195,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:01,"Dragon's Lair B10",Win,2:48,8048,1,0,Rune,5*,8500,Endure,41.74,2,Rare,DEF +15,ATK 4%,HP 5%,DEF 4%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:05,"Dragon's Lair B10",Win,2:27,8792,0,2,Symbol of Chaos x5,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:08,"Dragon's Lair B10",Win,2:46,8094,0,0,Rune,5*,12920,Shield,43.53,1,Rare,ATK +15,Resistance 6%,SPD +3,HP 5%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:10,"Dragon's Lair B10",Win,2:24,8246,0,2,Symbol of Transcendance x8,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:13,"Dragon's Lair B10",Win,2:33,7962,0,2,Symbol of Transcendance x9,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:18,"Dragon's Lair B10",Win,2:51,9380,0,4,Rune,5*,7225,Endure,41.37,6,Rare,ATK 8%,Resistance 4%,HP +232,HP 5%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:21,"Dragon's Lair B10",Win,2:52,9304,0,4,Rune,5*,5100,Endure,37.96,3,Rare,DEF +15,,CRI Rate 4%,CRI Dmg 3%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:24,"Dragon's Lair B10",Win,2:25,9456,0,2,Rune,5*,6800,Guard,50.72,5,Rare,HP +270,CRI Rate 5%,Accuracy 7%,Resistance 6%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:30,"Dragon's Lair B10",Win,2:31,8390,0,0,Rune,5*,5780,Focus,35.70,6,Rare,ATK 8%,,DEF +9,HP 4%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:32,"Dragon's Lair B10",Win,2:22,9408,0,1,Unknown Scroll x12,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:36,"Dragon's Lair B10",Win,2:35,8180,0,2,Rune,5*,9520,Guard,48.52,5,Legendary,HP +270,,Resistance 5%,DEF +8,Accuracy 3%,ATK +15,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:39,"Dragon's Lair B10",Win,2:36,8100,0,0,Rune,5*,7225,Guard,46.77,6,Hero,HP 8%,,Accuracy 7%,DEF 7%,ATK 6%,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:53,"Dragon's Lair B10",Win,2:24,8540,0,1,Rune,5*,11560,Revenge,42.42,6,Rare,ATK +15,CRI Dmg 3%,Resistance 5%,SPD +4,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:56,"Dragon's Lair B10",Win,2:22,8632,0,1,Rune Piece x11,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 15:59,"Dragon's Lair B10",Win,2:39,8960,0,0,Rune,5*,7225,Guard,43.94,6,Rare,Resistance 9%,CRI Rate 4%,ATK 5%,Accuracy 7%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 16:02,"Dragon's Lair B10",Win,2:38,4371,0,3,Rune,5*,8160,Endure,50.13,5,Hero,HP +270,DEF 6%,CRI Rate 3%,DEF +10,HP 5%,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 16:06,"Dragon's Lair B10",Win,2:17,4156,0,1,Symbol of Transcendance x9,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 16:11,"Dragon's Lair B10",Win,2:47,4358,0,1,Rune,5*,9180,Endure,49.76,4,Hero,DEF +15,CRI Rate 5%,Resistance 4%,HP +249,Accuracy 6%,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 16:13,"Dragon's Lair B10",Win,2:16,4381,0,0,Rune,6*,21080,Revenge,45.83,1,Rare,ATK +22,,CRI Rate 4%,HP 6%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 16:16,"Dragon's Lair B10",Win,2:41,4599,0,0,Rune,5*,6800,Guard,40.47,2,Rare,ATK +15,,HP 7%,CRI Dmg 4%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 16:21,"Dragon's Lair B10",Win,2:35,4501,0,1,Rune,5*,8500,Endure,39.94,2,Rare,ATK 8%,HP 6%,HP +157,Resistance 3%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 16:24,"Dragon's Lair B10",Win,2:56,4369,0,0,Unknown Scroll x12,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 16:29,"Dragon's Lair B10",Win,2:22,4062,0,1,Symbol of Transcendance x9,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 16:36,"Dragon's Lair B10",Win,3:02,4461,0,3,Rune,5*,6800,Guard,37.96,2,Rare,ATK 8%,,ATK +12,SPD +4,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-11 16:41,Hall of Heroes,Win,0:50,1440,0,0,Summoning Piece Pierret (Fire) x25,,,,,,,,,,,,,Verdehile,Sigmarus,Veromos,Belladeon,Megan
+2017-08-11 16:44,Hall of Heroes,Win,1:23,1630,0,1,Summoning Piece Pierret (Fire) x25,,,,,,,,,,,,,Verdehile,Sigmarus,Veromos,Belladeon,Megan
+2017-08-11 16:46,Hall of Heroes,Win,2:04,2134,0,0,Summoning Piece Pierret (Fire) x25,,,,,,,,,,,,,Verdehile,Sigmarus,Veromos,Belladeon,Megan
+2017-08-11 16:50,Hall of Heroes,Win,3:00,2052,0,2,Summoning Piece Pierret (Fire) x25,,,,,,,,,,,,,Verdehile,Sigmarus,Veromos,Belladeon,Megan
+2017-08-14 11:37,Faimon Volcano Hell - 1,Win,0:36,1196,0,1,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Baretta,,,,
+2017-08-14 11:38,Faimon Volcano Hell - 1,Win,1:01,2329,0,2,Rune,4*,5236,Revenge,25.22,1,Common,ATK +10,,,,,,Baretta,,,,
+2017-08-14 11:41,Faimon Volcano Hell - 1,Win,1:12,1614,0,3,Rune,3*,3182,Revenge,23.82,1,Magic,ATK +7,,CRI Dmg 3%,,,,Baretta,,,,
+2017-08-14 11:42,Faimon Volcano Hell - 1,Win,1:09,3086,0,3,Solid Rock x4,,,,,,,,,,,,,Baretta,,,,
+2017-08-14 11:44,Faimon Volcano Hell - 1,Win,1:22,2451,0,1,Rune,4*,5673,Revenge,27.90,1,Magic,ATK +10,,ATK 3%,,,,Baretta,,,,
+2017-08-14 11:48,Faimon Volcano Hell - 1,Win,2:02,1348,0,0,Rune,3*,3182,Revenge,25.22,1,Magic,ATK +7,,HP 5%,,,,Baretta,,,,
+2017-08-14 11:50,Faimon Volcano Hell - 1,Win,1:22,1121,0,0,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Baretta,,,,
+2017-08-14 11:52,Faimon Volcano Hell - 1,Win,0:58,2271,0,0,Unknown Scroll x5,,,,,,,,,,,,,Baretta,,,,
+2017-08-14 11:54,Faimon Volcano Hell - 1,Win,1:47,1343,0,1,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Baretta,,,,
+2017-08-14 11:56,Faimon Volcano Hell - 1,Win,1:00,1111,0,0,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Baretta,,,,
+2017-08-14 12:04,Faimon Volcano Hell - 1,Win,1:35,787,0,3,Rainbowmon 2,,,,,,,,,,,,,Baretta,,,,
+2017-08-14 12:06,Faimon Volcano Hell - 1,Win,1:02,1341,0,0,Solid Iron Ore x4,,,,,,,,,,,,,Baretta,,,,
+2017-08-14 12:08,Faimon Volcano Hell - 1,Win,1:22,1429,0,2,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Baretta,,,,
+2017-08-14 13:35,Faimon Volcano Hell - 1,Win,1:27,1774,0,1,Salamander (Fire) 3,,,,,,,,,,,,,Baretta,Vagabond (Wind),,,
+2017-08-14 13:37,Faimon Volcano Hell - 1,Win,1:14,1442,0,2,Rune,3*,2937,Revenge,20.76,1,Common,ATK +7,,,,,,Baretta,Vagabond (Wind),,,
+2017-08-14 13:47,Tamor Desert Hell - 3,Win,1:40,735,0,2,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Vagabond (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 13:49,Tamor Desert Hell - 3,Win,1:24,1232,0,1,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Vagabond (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 13:57,Tamor Desert Hell - 3,Win,1:15,1708,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Vagabond (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 13:59,Tamor Desert Hell - 3,Win,1:26,1397,0,3,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:02,Tamor Desert Hell - 3,Win,1:32,1598,0,1,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:05,Tamor Desert Hell - 3,Win,1:42,2006,0,1,Serpent (Wind) 3,,,,,,,,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:07,Tamor Desert Hell - 3,Win,1:40,1383,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:09,Tamor Desert Hell - 3,Win,1:51,1992,0,0,Rainbowmon 2,,,,,,,,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:12,Tamor Desert Hell - 3,Win,1:45,1527,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:14,Tamor Desert Hell - 3,Win,1:35,1238,0,3,Salamander (Wind) 2,,,,,,,,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:16,Tamor Desert Hell - 3,Win,1:17,1158,0,3,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:18,Tamor Desert Hell - 3,Win,1:46,859,0,2,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:21,Tamor Desert Hell - 3,Win,1:39,1617,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:23,Tamor Desert Hell - 3,Win,1:44,1665,0,0,Rune,5*,3825,Endure,30.13,3,Common,DEF +15,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:25,Tamor Desert Hell - 3,Win,1:24,1410,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:27,Tamor Desert Hell - 3,Win,1:41,1167,0,0,Rune,5*,3825,Endure,30.13,3,Common,DEF +15,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:31,Tamor Desert Hell - 3,Win,1:38,1423,0,1,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:34,Tamor Desert Hell - 3,Win,1:41,2154,0,0,Shining Mithril x3,,,,,,,,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:37,Tamor Desert Hell - 3,Win,1:15,1815,0,2,Rune,4*,3100,Endure,30.22,3,Magic,DEF +10,HP +75,SPD +3,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:43,Tamor Desert Hell - 3,Win,1:46,2272,0,3,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:45,Tamor Desert Hell - 3,Win,1:28,2019,0,0,Rune,4*,2756,Endure,26.77,3,Common,DEF +10,HP +81,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:48,Tamor Desert Hell - 3,Win,1:51,773,0,1,Shining Mithril x4,,,,,,,,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:51,Tamor Desert Hell - 3,Win,1:46,1602,0,0,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Amazon (Wind),Salamander (Fire),Drunken Master (Water),
+2017-08-14 14:55,Tamor Desert Hell - 3,Win,0:56,1605,0,2,Rune,4*,2411,Endure,28.48,3,Magic,DEF +10,,HP +171,,,,Baretta,Amazon (Wind),Serpent (Wind),,
+2017-08-14 14:57,Tamor Desert Hell - 3,Win,1:24,1570,0,1,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Amazon (Wind),Serpent (Wind),,
+2017-08-14 14:58,Tamor Desert Hell - 3,Win,1:17,1090,0,1,Rune,4*,2756,Endure,30.58,3,Common,DEF +10,DEF 6%,,,,,Baretta,Amazon (Wind),Serpent (Wind),,
+2017-08-14 15:18,Tamor Desert Hell - 3,Win,0:53,2752,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Serpent (Wind),,,
+2017-08-14 15:19,Tamor Desert Hell - 3,Win,1:21,3710,0,0,Rune,4*,2411,Endure,29.69,3,Magic,DEF +10,,Resistance 5%,,,,Baretta,Serpent (Wind),,,
+2017-08-14 15:21,Unknown,Win,1:20,3174,0,0,Solid Rock x2,,,,,,,,,,,,,Baretta,Serpent (Wind),,,
+2017-08-14 15:22,Tamor Desert Hell - 3,Win,1:14,2168,0,1,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Serpent (Wind),,,
+2017-08-14 15:24,Tamor Desert Hell - 3,Win,1:12,3292,0,1,Solid Rock x2,,,,,,,,,,,,,Baretta,Serpent (Wind),,,
+2017-08-14 15:26,Tamor Desert Hell - 3,Win,1:12,1576,0,0,Rune,3*,1352,Endure,23.44,3,Magic,DEF +7,,HP 3%,,,,Baretta,Serpent (Wind),,,
+2017-08-14 15:28,Tamor Desert Hell - 3,Win,1:19,2584,0,1,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Serpent (Wind),,,
+2017-08-14 15:29,Tamor Desert Hell - 3,Win,1:11,2460,0,0,Rune,3*,1352,Endure,23.44,3,Magic,DEF +7,,Accuracy 3%,,,,Baretta,Serpent (Wind),,,
+2017-08-14 15:32,Tamor Desert Hell - 3,Win,1:24,2082,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Serpent (Wind),,,
+2017-08-14 15:34,Tamor Desert Hell - 3,Win,1:14,2854,0,1,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Serpent (Wind),,,
+2017-08-14 15:37,Tamor Desert Hell - 3,Win,1:26,2562,0,0,Solid Rock x4,,,,,,,,,,,,,Baretta,Horned Frog (Fire),Battle Scorpion (Wind),,
+2017-08-14 15:39,Tamor Desert Hell - 3,Win,1:24,3038,0,0,Rune,5*,4462,Endure,36.38,3,Magic,DEF +15,,DEF 7%,,,,Baretta,Horned Frog (Fire),Battle Scorpion (Wind),,
+2017-08-14 15:43,Tamor Desert Hell - 3,Win,0:48,4812,0,1,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),,
+2017-08-14 15:45,Tamor Desert Hell - 3,Win,1:37,2964,0,0,Rainbowmon 2,,,,,,,,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),,
+2017-08-14 15:47,Tamor Desert Hell - 3,Win,1:15,4672,0,3,Rune,5*,3825,Endure,30.13,3,Common,DEF +15,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),,
+2017-08-14 15:48,Tamor Desert Hell - 3,Win,1:00,2978,0,1,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),,
+2017-08-14 15:50,Tamor Desert Hell - 3,Win,1:19,6180,0,1,Rune,5*,3825,Endure,30.13,3,Common,DEF +15,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),,
+2017-08-14 15:52,Tamor Desert Hell - 3,Win,1:14,2484,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),,
+2017-08-14 15:53,Tamor Desert Hell - 3,Win,1:13,3282,0,1,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),,
+2017-08-14 15:55,Tamor Desert Hell - 3,Win,1:18,1874,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),,
+2017-08-14 15:57,Tamor Desert Hell - 3,Win,1:10,4932,0,0,Shining Mithril x4,,,,,,,,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),,
+2017-08-14 16:03,Tamor Desert Hell - 3,Win,1:16,803,0,0,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),,
+2017-08-14 16:05,Tamor Desert Hell - 3,Win,1:12,1685,0,1,Rune,4*,2411,Endure,27.90,3,Magic,DEF +10,,Accuracy 3%,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),,
+2017-08-14 16:08,Tamor Desert Hell - 3,Win,1:25,1722,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),Salamander (Wind),
+2017-08-14 16:12,Tamor Desert Hell - 3,Win,1:17,1291,0,1,Rune,3*,1546,Endure,23.14,3,Common,DEF +7,SPD +2,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),Salamander (Wind),
+2017-08-14 16:14,Tamor Desert Hell - 3,Win,1:18,1439,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),Salamander (Wind),
+2017-08-14 16:16,Tamor Desert Hell - 3,Win,1:13,1774,0,1,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),Salamander (Wind),
+2017-08-14 16:17,Tamor Desert Hell - 3,Win,1:11,1634,0,1,Solid Rock x2,,,,,,,,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),Salamander (Wind),
+2017-08-14 16:20,Tamor Desert Hell - 3,Win,1:25,2108,0,2,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Mimick (Wind),Battle Scorpion (Wind),Salamander (Wind),
+2017-08-14 16:22,Tamor Desert Hell - 3,Win,1:28,1061,0,1,Rune,5*,3825,Endure,30.13,3,Common,DEF +15,,,,,,Baretta,Mimick (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 16:24,Tamor Desert Hell - 3,Win,1:21,821,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Mimick (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 16:25,Tamor Desert Hell - 3,Win,1:20,2004,0,0,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Mimick (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 16:29,Tamor Desert Hell - 3,Win,1:37,1612,0,0,Rainbowmon 2,,,,,,,,,,,,,Baretta,Slime (Water),Imp (Water),Salamander (Wind),
+2017-08-14 16:31,Tamor Desert Hell - 3,Win,1:35,1225,0,0,Rainbowmon 2,,,,,,,,,,,,,Baretta,Slime (Water),Imp (Water),Salamander (Wind),
+2017-08-14 16:33,Tamor Desert Hell - 3,Win,1:28,1340,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Slime (Water),Imp (Water),Salamander (Wind),
+2017-08-14 16:35,Tamor Desert Hell - 3,Win,1:18,1752,0,0,Salamander (Wind) 2,,,,,,,,,,,,,Baretta,Vagabond (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 16:37,Tamor Desert Hell - 3,Win,1:23,1774,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Vagabond (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 16:39,Tamor Desert Hell - 3,Win,1:18,1720,0,2,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Vagabond (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 16:42,Tamor Desert Hell - 3,Win,1:21,408,1,0,Rune,5*,3825,Endure,30.13,3,Common,DEF +15,,,,,,Baretta,Vagabond (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 16:44,Tamor Desert Hell - 3,Win,1:33,2060,0,1,Rune,3*,1546,Endure,24.33,3,Common,DEF +7,Resistance 4%,,,,,Baretta,Vagabond (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 16:46,Tamor Desert Hell - 3,Win,1:24,1145,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Vagabond (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 16:48,Tamor Desert Hell - 3,Win,1:33,1462,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Vagabond (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 16:50,Tamor Desert Hell - 3,Win,1:10,1212,0,1,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Vagabond (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 16:51,Tamor Desert Hell - 3,Win,1:20,2775,0,1,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Vagabond (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 17:02,Tamor Desert Hell - 3,Win,1:28,1568,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Vagabond (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 17:05,Tamor Desert Hell - 3,Win,1:25,1232,0,0,Rune,3*,1352,Endure,23.82,3,Magic,DEF +7,,CRI Dmg 3%,,,,Baretta,Vagabond (Wind),Imp (Water),Salamander (Wind),
+2017-08-14 17:07,Tamor Desert Hell - 3,Win,1:21,1741,0,1,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Vagabond (Wind),Imp (Water),Garuda (Fire),
+2017-08-14 17:08,Tamor Desert Hell - 3,Win,1:11,1203,0,1,Salamander (Wind) 2,,,,,,,,,,,,,Baretta,Vagabond (Wind),Imp (Water),Garuda (Fire),
+2017-08-14 17:12,Tamor Desert Hell - 3,Win,1:23,2052,0,1,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Vagabond (Wind),Imp (Water),Garuda (Fire),
+2017-08-14 17:14,Tamor Desert Hell - 3,Win,1:36,1278,0,2,Rune,5*,3825,Endure,30.13,3,Common,DEF +15,,,,,,Baretta,Vagabond (Wind),Imp (Water),Garuda (Fire),
+2017-08-14 17:16,Tamor Desert Hell - 3,Win,1:24,2114,0,0,Rune,3*,1352,Endure,24.33,3,Magic,DEF +7,,Resistance 4%,,,,Baretta,Vagabond (Wind),Imp (Water),Garuda (Fire),
+2017-08-14 17:17,Tamor Desert Hell - 3,Win,1:16,1645,0,1,Unknown Scroll x5,,,,,,,,,,,,,Baretta,Vagabond (Wind),Imp (Water),Garuda (Fire),
+2017-08-14 17:20,Tamor Desert Hell - 3,Win,1:39,1909,0,0,Rune,4*,2067,Endure,25.22,3,Common,DEF +10,,,,,,Baretta,Vagabond (Wind),Grim Reaper (Water),Garuda (Fire),
+2017-08-14 17:22,Tamor Desert Hell - 3,Win,1:16,762,0,0,Rune,5*,5100,Endure,33.71,3,Common,DEF +15,SPD +3,,,,,Baretta,Vagabond (Wind),Grim Reaper (Water),Garuda (Fire),
+2017-08-14 17:25,Tamor Desert Hell - 3,Win,1:14,1516,0,1,Sandman (Wind) 1,,,,,,,,,,,,,Baretta,Vagabond (Wind),Grim Reaper (Water),Garuda (Fire),
+2017-08-14 17:26,Tamor Desert Hell - 3,Win,1:34,1876,0,0,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Vagabond (Wind),Grim Reaper (Water),Garuda (Fire),
+2017-08-14 17:28,Tamor Desert Hell - 3,Win,1:13,1016,0,2,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Vagabond (Wind),Grim Reaper (Water),Garuda (Fire),
+2017-08-14 17:30,Tamor Desert Hell - 3,Win,1:13,1417,0,1,Rune,3*,1159,Endure,20.76,3,Common,DEF +7,,,,,,Baretta,Vagabond (Wind),Grim Reaper (Water),Garuda (Fire),
+2017-08-16 10:43,"Dragon's Lair B10",Win,2:37,4105,0,2,Rune,5*,12920,Guard,56.32,1,Legendary,ATK +15,Resistance 6%,CRI Rate 5%,HP 4%,ATK 6%,SPD +5,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-16 10:47,"Dragon's Lair B10",Win,2:23,4443,0,2,Rune,5*,7225,Focus,43.38,6,Rare,HP 8%,DEF 4%,Resistance 7%,DEF +13,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-16 10:52,"Dragon's Lair B10",Win,2:41,4269,0,0,Rune,5*,13600,Shield,45.81,2,Rare,SPD +5,HP +186,DEF +13,Accuracy 5%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-16 10:55,"Dragon's Lair B10",Win,2:14,4150,0,2,Rune,6*,12680,Guard,53.19,5,Rare,HP +360,SPD +6,CRI Dmg 4%,ATK 7%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-16 10:58,"Dragon's Lair B10",Win,2:21,4754,0,3,Rune,6*,14265,Focus,54.11,4,Rare,DEF +22,HP 8%,ATK +19,ATK 5%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-16 11:01,"Dragon's Lair B10",Win,2:53,4136,0,0,Rune,5*,5780,Guard,35.70,6,Rare,DEF 8%,,ATK +9,CRI Rate 3%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-16 11:05,"Dragon's Lair B10",Win,2:45,4351,0,1,Symbol of Transcendance x10,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-16 11:08,"Giant's Keep B10",Win,2:25,4260,0,0,Rune,5*,7480,Blade,51.48,5,Hero,HP +270,SPD +3,ATK +12,Resistance 6%,CRI Dmg 5%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:11,"Giant's Keep B10",Win,2:14,3868,0,1,Rune,5*,8075,Swift,40.47,1,Rare,ATK +15,Accuracy 3%,CRI Rate 3%,CRI Dmg 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:14,"Giant's Keep B10",Win,2:20,3630,0,1,Rune,5*,11475,Despair,41.66,3,Hero,DEF +15,,CRI Dmg 4%,CRI Rate 4%,Resistance 3%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:17,"Giant's Keep B10",Win,2:06,4835,0,2,Rune,5*,4845,Energy,38.17,1,Rare,ATK +15,,CRI Rate 3%,Resistance 5%,,,Lushen,Megan,Veromos,Sigmarus,Bernard
+2017-08-16 11:25,"Giant's Keep B10",Win,2:33,4162,0,1,Rune,5*,7650,Blade,42.24,2,Rare,HP 8%,ATK 4%,CRI Rate 4%,DEF +14,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:29,"Giant's Keep B10",Win,2:35,4106,0,1,Summoning Stones x3,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:33,"Giant's Keep B10",Win,2:28,4310,0,3,Symbol of Harmony x8,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:36,"Giant's Keep B10",Win,2:49,3775,0,1,Mystical Scroll,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:42,"Giant's Keep B10",Win,2:33,3651,0,0,Rune,5*,4080,Energy,43.88,5,Rare,HP +270,,DEF 5%,ATK 7%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:46,"Giant's Keep B10",Win,2:22,4201,0,0,Rune Piece x10,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:48,"Giant's Keep B10",Win,2:30,4444,0,1,Rune,5*,5780,Swift,35.09,6,Rare,Accuracy 9%,,ATK +10,CRI Dmg 3%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:53,"Giant's Keep B10",Win,2:21,3801,0,1,Rune,5*,15300,Despair,45.50,4,Hero,ATK +15,Resistance 5%,HP +117,CRI Dmg 5%,SPD +3,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:56,"Giant's Keep B10",Win,2:16,3910,0,0,Rune,5*,4335,Energy,37.21,6,Rare,Accuracy 9%,,DEF +12,DEF 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-16 11:59,"Giant's Keep B10",Win,2:45,3484,0,3,Rune,5*,5737,Fatal,41.74,3,Rare,DEF +15,HP 4%,DEF 4%,Accuracy 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 09:40,"Giant's Keep B10",Win,2:41,3752,0,0,Symbol of Chaos x6,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 09:43,"Giant's Keep B10",Win,2:37,3734,0,0,Rune,5*,13770,Despair,47.19,4,Hero,HP +270,,CRI Dmg 5%,HP 6%,Resistance 4%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 09:46,"Giant's Keep B10",Win,2:24,4154,0,0,Rune,6*,27103,Despair,48.71,1,Rare,ATK +22,HP +151,CRI Rate 4%,ATK 6%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 09:49,"Giant's Keep B10",Win,2:37,4136,0,0,Rune,5*,6460,Swift,40.55,1,Rare,ATK +15,,CRI Rate 5%,Resistance 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 09:53,"Giant's Keep B10",Win,2:28,3720,0,0,Rune,5*,5057,Blade,38.29,6,Rare,ATK +15,,HP +178,CRI Rate 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 09:56,"Giant's Keep B10",Win,2:31,4169,0,1,Rune,5*,5737,Blade,41.96,3,Rare,DEF +15,HP +132,CRI Dmg 3%,DEF 7%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 09:59,"Giant's Keep B10",Win,2:43,3837,0,1,Rune,5*,5737,Blade,43.61,3,Hero,DEF +15,,Accuracy 5%,CRI Dmg 3%,SPD +5,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 10:02,"Giant's Keep B10",Win,2:21,3532,0,2,Symbol of Chaos x6,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 10:05,"Giant's Keep B10",Win,2:34,4468,0,2,Rune,5*,6502,Fatal,44.47,6,Hero,Resistance 9%,,HP +278,DEF 7%,Accuracy 5%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 10:08,"Giant's Keep B10",Win,2:35,3633,0,1,Rune,5*,14535,Despair,45.01,1,Rare,ATK +15,SPD +5,ATK 7%,Resistance 3%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 10:11,"Giant's Keep B10",Win,2:25,4035,0,1,Rune,5*,4462,Fatal,36.74,3,Rare,DEF +15,,CRI Dmg 3%,HP +186,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 13:36,"Giant's Keep B10",Win,2:37,4325,0,1,Rune,5*,4760,Blade,43.28,5,Rare,HP +270,,SPD +4,ATK +15,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 13:40,"Giant's Keep B10",Win,2:33,4079,0,0,Rune,5*,6800,Energy,42.98,2,Hero,DEF 8%,,CRI Dmg 3%,ATK 7%,CRI Rate 4%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 13:44,"Giant's Keep B10",Win,2:48,4008,0,1,Rune,5*,5100,Energy,42.17,3,Rare,DEF +15,HP +163,SPD +3,Resistance 6%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 13:47,"Giant's Keep B10",Win,2:27,3669,0,1,Rune,6*,8321,Blade,46.73,3,Rare,DEF +22,,CRI Rate 4%,HP 7%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 13:51,"Giant's Keep B10",Win,2:43,3799,0,2,Rune,5*,13005,Despair,40.70,6,Rare,DEF 8%,CRI Rate 3%,DEF +13,ATK 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 16:20,"Giant's Keep B10",Win,2:42,4061,0,1,Rune,5*,6460,Swift,37.34,1,Rare,ATK +15,,HP +191,SPD +3,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 16:23,"Giant's Keep B10",Win,2:29,4005,0,0,Rune,5*,5440,Swift,40.31,5,Rare,HP +270,,Resistance 4%,DEF 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 16:27,"Giant's Keep B10",Win,2:47,3421,0,1,Rainbowmon 3,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 16:30,"Giant's Keep B10",Win,2:24,3695,0,0,Symbol of Transcendance x6,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 16:34,"Giant's Keep B10",Win,2:34,3903,1,2,Symbol of Harmony x9,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 16:39,"Giant's Keep B10",Win,2:42,4227,1,2,Rune,5*,12240,Despair,47.15,5,Hero,HP +270,,SPD +5,HP 4%,Accuracy 5%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 16:42,"Giant's Keep B10",Win,2:21,3865,0,0,Rune Piece x10,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 16:45,"Giant's Keep B10",Win,2:12,3871,0,2,Rune,5*,12240,Despair,47.33,5,Hero,HP +270,,CRI Rate 5%,DEF +13,DEF 4%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 16:48,"Giant's Keep B10",Win,2:32,3454,0,1,Summoning Stones x3,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 16:52,"Giant's Keep B10",Win,2:23,4177,1,3,Rune,5*,6502,Fatal,44.27,6,Hero,ATK +15,,DEF +13,Resistance 5%,HP +264,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-17 16:55,"Dragon's Lair B10",Win,2:18,4123,0,1,Rune Piece x8,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-17 16:59,"Dragon's Lair B10",Win,2:46,4177,0,1,Rune,5*,12240,Revenge,45.06,4,Rare,ATK +15,CRI Dmg 5%,DEF 5%,DEF +15,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-17 17:02,"Dragon's Lair B10",Win,3:05,4044,0,0,Rune,5*,8500,Guard,43.78,2,Rare,SPD +5,DEF 4%,HP +220,DEF +8,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-17 17:10,"Dragon's Lair B10",Win,2:28,4515,1,3,Symbol of Harmony x5,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-17 17:12,"Dragon's Lair B10",Win,2:12,4379,0,0,Rune,5*,9520,Shield,45.37,5,Rare,HP +270,,HP 7%,SPD +5,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-17 17:15,"Dragon's Lair B10",Win,2:08,4130,0,0,Symbol of Chaos x6,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-17 17:18,"Dragon's Lair B10",Win,2:28,4119,0,1,Rune,6*,21080,Shield,45.38,1,Rare,ATK +22,,CRI Dmg 4%,HP +293,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-17 17:21,"Dragon's Lair B10",Win,2:34,3627,0,0,Summoning Stones x2,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-17 17:26,"Dragon's Lair B10",Win,2:43,3830,0,0,Rune,5*,5440,Focus,42.63,5,Rare,HP +270,,DEF 7%,ATK +9,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-17 17:29,"Giant's Keep B10",Win,2:21,3569,0,0,Rune,5*,6120,Swift,42.93,4,Rare,HP +270,,CRI Rate 4%,DEF +14,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:01,"Giant's Keep B10",Win,2:21,3888,0,3,Rune,6*,13551,Fatal,54.21,1,Hero,ATK +22,,HP 7%,CRI Dmg 5%,CRI Rate 6%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:04,"Giant's Keep B10",Win,2:30,3775,0,1,Rune,5*,4080,Energy,43.58,5,Rare,HP +270,,SPD +5,ATK 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:07,"Giant's Keep B10",Win,2:43,3870,0,2,Rune,6*,23775,Despair,56.82,3,Hero,DEF +22,HP +155,SPD +4,Resistance 8%,Accuracy 7%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:15,"Giant's Keep B10",Win,2:36,4255,0,0,Rune,5*,6120,Blade,49.53,5,Rare,HP +270,CRI Rate 4%,DEF +15,Accuracy 7%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:17,"Giant's Keep B10",Win,2:09,3883,0,0,Symbol of Chaos x5,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:20,"Giant's Keep B10",Win,2:31,3267,0,1,Rune,5*,5950,Fatal,37.84,2,Rare,ATK 8%,,Accuracy 6%,ATK +10,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:23,"Giant's Keep B10",Win,2:36,4046,0,1,Rune,5*,9350,Fatal,50.13,2,Hero,HP +270,ATK +10,DEF 7%,CRI Rate 3%,SPD +3,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:26,"Giant's Keep B10",Win,2:29,3884,0,2,Rune,5*,6800,Swift,44.06,5,Rare,HP +270,SPD +3,DEF 5%,DEF +8,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:29,"Giant's Keep B10",Win,2:25,4364,0,2,Rune,6*,11412,Blade,53.57,5,Rare,HP +360,ATK 7%,DEF 5%,Accuracy 8%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:32,"Giant's Keep B10",Win,2:25,4092,0,2,Rune Piece x8,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:35,"Giant's Keep B10",Win,2:43,3934,0,1,Rune,5*,6885,Blade,40.56,4,Rare,DEF 8%,DEF +11,HP +171,ATK 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:39,"Giant's Keep B10",Win,2:28,3908,0,2,Rune,5*,5737,Blade,46.65,3,Rare,DEF +15,SPD +4,DEF 7%,HP +289,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:42,"Giant's Keep B10",Win,2:40,3563,0,0,Rune,5*,6502,Fatal,44.23,6,Rare,Resistance 9%,ATK +15,SPD +5,ATK 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:44,"Giant's Keep B10",Win,2:17,4249,0,0,Rune,5*,6800,Energy,47.09,2,Hero,HP +270,,ATK 7%,DEF +9,HP 5%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:47,"Giant's Keep B10",Win,2:40,3997,0,1,Rune,6*,12125,Fatal,52.73,6,Hero,ATK 11%,,CRI Rate 6%,HP +331,Accuracy 4%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 10:55,"Giant's Keep B10",Win,2:31,3931,0,1,Rune,5*,3825,Energy,40.17,3,Rare,DEF +15,,SPD +5,CRI Dmg 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 11:00,"Giant's Keep B10",Win,2:40,7618,0,3,Rune,6*,10698,Fatal,54.46,3,Rare,DEF +22,DEF 7%,Resistance 6%,SPD +6,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 11:02,"Giant's Keep B10",Win,2:25,8196,0,3,Rune,5*,5950,Blade,37.72,2,Rare,ATK +15,,HP +192,DEF +11,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 11:05,"Giant's Keep B10",Win,2:13,7660,0,1,Rune,5*,5737,Blade,41.36,3,Rare,DEF +15,CRI Dmg 4%,SPD +3,Resistance 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 11:09,"Giant's Keep B10",Win,2:17,6618,0,1,Symbol of Harmony x12,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 11:12,"Giant's Keep B10",Win,2:35,7108,0,0,Rune,5*,7650,Swift,40.70,4,Rare,HP 8%,Accuracy 4%,ATK +8,ATK 6%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 11:16,"Giant's Keep B10",Win,2:39,8102,0,2,Symbol of Harmony x12,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 11:19,"Giant's Keep B10",Win,2:46,7428,0,0,Symbol of Chaos x6,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 11:22,"Giant's Keep B10",Win,2:27,7474,0,2,Rune,5*,4760,Blade,42.63,5,Rare,HP +270,,ATK +14,DEF 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:13,"Giant's Keep B10",Win,2:30,3706,0,0,Rune,5*,14450,Despair,47.09,6,Hero,Accuracy 9%,ATK 5%,ATK +13,Resistance 4%,SPD +5,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:17,"Giant's Keep B10",Win,2:35,3777,0,0,Rune,5*,12240,Despair,47.19,5,Rare,HP +270,DEF +15,Resistance 4%,CRI Dmg 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:21,"Giant's Keep B10",Win,3:30,4117,0,2,Rune,6*,21556,Despair,46.13,6,Rare,Resistance 12%,,ATK 5%,CRI Rate 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:24,"Giant's Keep B10",Win,2:41,3799,0,0,Rune,5*,4080,Energy,43.04,5,Rare,HP +270,,DEF +11,CRI Rate 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:27,"Giant's Keep B10",Win,2:33,3870,0,0,Rune,5*,8500,Energy,48.73,2,Hero,ATK 8%,Accuracy 6%,DEF +13,Resistance 4%,DEF 7%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:30,"Giant's Keep B10",Win,2:21,3686,0,1,Rune,5*,4760,Blade,43.88,5,Rare,HP +270,,ATK 7%,Accuracy 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:36,"Giant's Keep B10",Win,2:31,4274,0,3,Rune,5*,9562,Fatal,49.07,3,Legendary,DEF +15,SPD +3,HP +224,CRI Dmg 3%,DEF 5%,HP 4%,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:40,"Giant's Keep B10",Win,2:06,3518,0,2,Rune,6*,12838,Blade,55.36,4,Rare,ATK +22,CRI Rate 6%,DEF 6%,HP 8%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:43,"Giant's Keep B10",Win,2:30,3404,0,1,Rune,5*,13600,Despair,42.98,2,Rare,SPD +5,,DEF 7%,ATK 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:48,"Giant's Keep B10",Win,2:18,4042,0,5,Rune,5*,8160,Swift,52.81,5,Hero,HP +270,Resistance 7%,CRI Rate 3%,SPD +3,Accuracy 7%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:51,"Giant's Keep B10",Win,2:27,4095,0,5,Rune,5*,8840,Blade,52.00,5,Legendary,HP +270,,ATK 5%,CRI Dmg 3%,Resistance 6%,CRI Rate 5%,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:54,"Giant's Keep B10",Win,2:07,3754,0,2,Rainbowmon 2,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:57,"Giant's Keep B10",Win,2:16,3769,0,0,Rune,5*,5440,Energy,45.37,5,Rare,HP +270,CRI Rate 5%,DEF 4%,Resistance 3%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 14:59,"Giant's Keep B10",Win,2:26,4175,0,1,Rune,5*,7650,Fatal,42.47,2,Rare,SPD +5,CRI Dmg 3%,Resistance 3%,ATK 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 15:02,"Giant's Keep B10",Win,2:15,7742,0,0,Rune,5*,12920,Despair,39.96,1,Rare,ATK +15,,ATK 5%,Resistance 6%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 15:06,"Giant's Keep B10",Win,2:27,8518,0,1,Rune,5*,5950,Fatal,36.77,2,Rare,ATK +15,,DEF +10,CRI Dmg 3%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 15:09,"Giant's Keep B10",Win,2:04,7220,0,2,Rune,5*,6885,Fatal,43.39,4,Rare,HP 8%,Resistance 6%,CRI Rate 4%,HP +229,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 15:15,"Giant's Keep B10",Win,2:14,8822,0,1,Rune,5*,6460,Swift,40.17,1,Rare,ATK +15,,SPD +5,CRI Dmg 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 15:18,"Giant's Keep B10",Win,2:25,7762,0,1,Rainbowmon 3,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 15:21,"Giant's Keep B10",Win,2:25,6880,0,1,Rune Piece x11,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 15:24,"Giant's Keep B10",Win,2:50,7812,0,1,Rune,5*,12240,Despair,47.19,5,Rare,HP +270,SPD +3,DEF +15,CRI Dmg 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 15:27,"Giant's Keep B10",Win,2:34,8466,0,3,Rune Piece x11,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 15:31,"Giant's Keep B10",Win,2:43,7562,0,2,Rune,6*,12046,Energy,50.83,1,Hero,ATK +22,,Resistance 7%,HP +251,CRI Dmg 4%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 15:34,"Giant's Keep B10",Win,2:19,7076,0,1,Rune,5*,9350,Blade,45.78,2,Hero,HP 8%,CRI Dmg 3%,Resistance 4%,CRI Rate 5%,DEF +12,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 15:48,"Dragon's Lair B10",Win,2:20,8038,0,0,Rune,5*,13600,Guard,56.72,2,Legendary,HP +270,CRI Dmg 5%,Resistance 4%,DEF 5%,SPD +5,ATK 5%,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-18 15:51,"Dragon's Lair B10",Win,2:28,8588,0,1,Rune,5*,8075,Guard,43.23,1,Rare,ATK +15,CRI Rate 5%,HP 5%,Accuracy 3%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-18 15:55,"Dragon's Lair B10",Win,2:43,8968,1,0,Rune,5*,13770,Shield,49.82,4,Hero,CRI Rate 5%,HP +290,DEF 6%,ATK +13,ATK 6%,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-18 15:58,"Dragon's Lair B10",Win,2:27,9560,0,5,Rune Piece x10,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-18 16:04,"Giant's Keep B10",Win,2:36,3899,0,3,Rainbowmon 3,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 16:06,"Giant's Keep B10",Win,2:23,4047,0,0,Rune,5*,8415,Fatal,45.37,4,Hero,ATK 8%,CRI Dmg 3%,Resistance 7%,CRI Rate 3%,HP 4%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 16:09,"Giant's Keep B10",Win,2:01,3612,0,0,Rune,6*,9510,Swift,44.26,3,Rare,DEF +22,,DEF 5%,CRI Dmg 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 16:12,"Giant's Keep B10",Win,2:12,3907,0,1,Rune,5*,9350,Fatal,49.21,2,Hero,SPD +5,Accuracy 4%,DEF 7%,HP +166,CRI Dmg 3%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 16:15,"Giant's Keep B10",Win,2:37,3902,0,1,Symbol of Chaos x5,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 16:19,"Giant's Keep B10",Win,2:42,3862,0,1,Rune,5*,7012,Blade,51.49,3,Hero,DEF +15,Accuracy 6%,SPD +5,DEF 6%,HP +246,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 16:22,"Giant's Keep B10",Win,1:57,3493,0,1,Rune,5*,6885,Blade,42.28,4,Hero,ATK +15,,DEF 5%,ATK 5%,DEF +9,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-18 16:30,"Giant's Keep B10",Win,2:10,3382,0,1,Rune,5*,5440,Energy,47.63,5,Rare,HP +270,Resistance 4%,DEF 7%,ATK +13,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 10:24,"Giant's Keep B10",Win,1:49,3959,0,1,Rune,6*,17435,Fatal,59.03,2,Hero,ATK 11%,Resistance 8%,CRI Dmg 5%,ATK +11,CRI Rate 6%,,Lushen,Megan,Veromos,Belladeon,Sigmarus
+2017-08-21 10:29,"Giant's Keep B10",Win,1:53,4093,0,0,Rune,5*,7650,Energy,50.21,4,Hero,ATK +15,SPD +4,Accuracy 7%,HP +148,HP 7%,,Lushen,Megan,Veromos,Belladeon,Sigmarus
+2017-08-21 10:35,"Giant's Keep B10",Win,2:28,4030,0,0,Rune,5*,6885,Blade,46.94,4,Rare,HP +270,HP 7%,Resistance 5%,CRI Dmg 3%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 10:37,"Giant's Keep B10",Win,2:14,3631,2,1,Rune,5*,5100,Energy,42.63,3,Rare,DEF +15,HP 4%,DEF 6%,CRI Rate 3%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 10:40,"Giant's Keep B10",Win,2:40,3787,0,2,Symbol of Harmony x11,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 10:43,"Giant's Keep B10",Win,2:14,3682,0,3,Rune Piece x11,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 10:47,"Giant's Keep B10",Win,2:20,3655,0,0,Rune,5*,4845,Energy,38.17,1,Rare,ATK +15,,Resistance 5%,SPD +3,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 10:50,"Giant's Keep B10",Win,2:07,3887,0,1,Mystical Scroll,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 10:53,"Giant's Keep B10",Win,2:17,4000,0,2,Rune,5*,6375,Swift,42.93,3,Rare,DEF +15,HP 5%,SPD +3,CRI Rate 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 10:56,"Giant's Keep B10",Win,2:24,3887,0,0,Rune Piece x10,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 11:01,"Giant's Keep B10",Win,2:45,3729,0,2,Rune,5*,6502,Fatal,43.53,6,Rare,ATK +15,ATK 5%,Accuracy 4%,DEF 6%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 11:04,"Giant's Keep B10",Win,2:44,3541,0,1,Rune,5*,5440,Swift,42.98,5,Rare,HP +270,,DEF 7%,HP 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 11:08,"Giant's Keep B10",Win,2:45,4172,0,1,Rune,5*,7480,Blade,51.77,5,Hero,HP +270,DEF +9,CRI Dmg 4%,Accuracy 6%,CRI Rate 5%,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 11:10,"Giant's Keep B10",Win,2:11,4153,0,0,Rune,5*,11050,Fatal,49.19,2,Legendary,ATK 8%,,CRI Rate 3%,Accuracy 6%,CRI Dmg 5%,Resistance 7%,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 11:17,"Giant's Keep B10",Win,2:47,3525,0,1,Rune,5*,5100,Swift,40.00,3,Rare,DEF +15,,CRI Dmg 5%,CRI Rate 4%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 11:20,"Giant's Keep B10",Win,2:37,3876,0,1,Rune,5*,4760,Fatal,41.91,5,Rare,HP +270,,ATK +12,ATK 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 11:23,"Giant's Keep B10",Win,2:17,4381,0,2,Rune,5*,4845,Energy,37.91,1,Rare,ATK +15,,Accuracy 3%,CRI Dmg 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-21 11:27,"Giant's Keep B10",Win,2:34,3806,0,4,Symbol of Chaos x6,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard

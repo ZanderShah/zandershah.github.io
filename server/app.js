@@ -35,25 +35,4 @@ app.get('*', (req, result) => {
   result.sendFile(path.resolve(__dirname, '..', 'build', 'index.html'));
 });
 
-app.post('/api/*', (req, result, next) => {
-  if (req.headers['X-Access-Token'] === secret) {
-    next();
-  } 
-});
-
-app.post('/api/summoners-war', (req, result) => {
-  const body = req.body
-  const query = {
-    text: 'insert into sw(date, dungeon, time, team1, team2, team3, team4, team5) values ($1, $2, $3, $4, $5, $6, $7, $8)',
-    values: body.data
-  }
-  client.query(query, (err, res) => {
-    if (err) {
-      console.log(err.stack);
-    } else {
-      result.status(200).json(query);
-    }
-  });
-});
-
 module.exports = app;
