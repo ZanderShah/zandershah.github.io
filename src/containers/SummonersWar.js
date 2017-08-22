@@ -18,9 +18,9 @@ class SummonersWar extends Component {
     if (this.state.runs) {
       return (
         <div style={{textAlign: 'center'}}>
-          <h1>In Progress</h1>
+          <h1>Recent Runs</h1>
           {this.state.runs.map((row) => 
-            <h5>{row['dungeon']} {row['time']} {row['team1']} {row['team2']} {row['team3']} {row['team4']} {row['team5']}</h5> 
+            <h5>{row['dungeon']} => {row['time']} {row['team1']} {row['team2']} {row['team3']} {row['team4']} {row['team5']}</h5> 
           )}
         </div>
       );

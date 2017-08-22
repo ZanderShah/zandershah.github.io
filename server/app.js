@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 const bodyParser = require('body-parser');
 const client = require('./database');
-const { mapboxAccessToken, t_maps } = require('./config');
+const { mapboxAccessToken, t_maps, whitelist } = require('./config');
 
 const app = express();
 app.use(bodyParser.json());
@@ -16,11 +16,17 @@ app.get('/api/food-map', (req, result) => {
 });
 
 app.get('/api/summoners-war', (req, result) => {
-  client.query('select * from sw order by date desc limit 10', (err, res) => {
+  client.query('select * from sw where date in (select max(date) from sw group by dungeon)', (err, res) => {
     if (err) {
       console.log(err.stack);
     } else {
-      result.send(res.rows);
+      ret = []
+      for (let row of res.rows) {
+        if (whitelist.includes(row.dungeon)) {
+          ret.push(row)
+        }
+      }
+      result.send(ret);
     }
   });
 });
