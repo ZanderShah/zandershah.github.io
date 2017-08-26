@@ -34,7 +34,7 @@ class App extends Component {
               <NavHoverable to='/' style={tabs}>Home</NavHoverable>
             </li>
             <li style={{float: 'left'}}>
-              <NavHoverable to='/food-map' style={tabs}>Food Map</NavHoverable>
+              <NavHoverable to='/toronto-food' style={tabs}>Toronto Food</NavHoverable>
             </li> 
             <li style={{float: 'left'}}>
               <NavHoverable to='/summoners-war' style={tabs}>Summoners War</NavHoverable>
@@ -43,7 +43,7 @@ class App extends Component {
         </nav>
         <Route exact path='/' component={Resume} />
         <Route path='/summoners-war' component={SummonersWar} />
-        <Route path='/food-map' component={Food} />
+        <Route path='/toronto-food' component={Food} />
       </div>
     );
   }
