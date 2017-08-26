@@ -438,3 +438,59 @@ date,dungeon,result,time,mana,crystal,energy,drop,grade,sell_value,set,efficienc
 2017-08-21 11:20,"Giant's Keep B10",Win,2:37,3876,0,1,Rune,5*,4760,Fatal,41.91,5,Rare,HP +270,,ATK +12,ATK 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
 2017-08-21 11:23,"Giant's Keep B10",Win,2:17,4381,0,2,Rune,5*,4845,Energy,37.91,1,Rare,ATK +15,,Accuracy 3%,CRI Dmg 5%,,,Lushen,Megan,Veromos,Belladeon,Bernard
 2017-08-21 11:27,"Giant's Keep B10",Win,2:34,3806,0,4,Symbol of Chaos x6,,,,,,,,,,,,,Lushen,Megan,Veromos,Belladeon,Bernard
+2017-08-23 11:07,Faimon Volcano Hell - 1,Win,1:17,1612,0,1,Rune,4*,5236,Revenge,25.22,1,Common,ATK +10,,,,,,Xiao Lin,Mihyang,Lisa,,
+2017-08-23 13:51,"Giant's Keep B10",Win,2:42,4054,1,1,Rune,6*,30432,Despair,65.95,5,Legendary,HP +360,CRI Rate 5%,Accuracy 8%,Resistance 6%,HP 8%,DEF +13,Lushen,Veromos,Belladeon,Megan,Bernard
+2017-08-23 13:54,"Giant's Keep B10",Win,2:04,3462,0,1,Rune,5*,4760,Fatal,43.28,5,Rare,HP +270,,DEF +15,CRI Rate 4%,,,Lushen,Veromos,Belladeon,Megan,Bernard
+2017-08-23 13:56,"Giant's Keep B10",Win,2:12,4149,0,2,Mystical Scroll,,,,,,,,,,,,,Lushen,Veromos,Belladeon,Megan,Bernard
+2017-08-23 13:59,"Giant's Keep B10",Win,2:21,3563,1,0,Rune,5*,6120,Energy,47.55,4,Rare,HP +270,CRI Dmg 5%,DEF +15,ATK +11,,,Lushen,Veromos,Belladeon,Megan,Bernard
+2017-08-23 14:02,"Giant's Keep B10",Win,2:35,4375,0,3,Rune,5*,6885,Fatal,42.60,4,Rare,ATK 8%,SPD +4,Accuracy 3%,DEF 7%,,,Lushen,Veromos,Belladeon,Megan,Bernard
+2017-08-23 14:08,"Giant's Keep B10",Win,2:40,3802,0,0,Rune,5*,15300,Despair,44.56,2,Rare,ATK +15,DEF +15,HP +195,Resistance 6%,,,Lushen,Veromos,Belladeon,Megan,Bernard
+2017-08-23 14:11,"Giant's Keep B10",Win,1:59,3649,0,2,Rune,5*,12240,Despair,35.34,4,Rare,ATK 8%,,ATK +8,SPD +3,,,Lushen,Veromos,Belladeon,Megan,Bernard
+2017-08-23 14:14,"Giant's Keep B10",Win,2:25,3831,0,2,Rune,6*,8876,Blade,44.64,5,Rare,HP +360,,HP 5%,ATK 5%,,,Lushen,Veromos,Belladeon,Megan,Bernard
+2017-08-23 14:18,"Giant's Keep B10",Win,2:14,3570,0,0,Rune,5*,7267,Fatal,45.91,1,Rare,ATK +15,ATK 5%,Resistance 6%,CRI Rate 5%,,,Lushen,Veromos,Belladeon,Megan,Bernard
+2017-08-23 14:25,"Giant's Keep B10",Win,3:06,3551,0,0,Rune,6*,11412,Energy,51.79,4,Rare,ATK 11%,HP 6%,Resistance 6%,Accuracy 6%,,,Sigmarus,Veromos,Belladeon,Megan,Bernard
+2017-08-23 14:31,"Dragon's Lair B10",Win,2:48,4165,0,1,Rune,5*,14450,Shield,45.07,6,Legendary,HP 8%,,ATK 4%,SPD +5,CRI Rate 3%,CRI Dmg 3%,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 14:36,"Dragon's Lair B10",Win,2:30,4146,0,1,Summoning Stones x2,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 14:40,"Dragon's Lair B10",Win,2:42,4273,0,0,Rune,5*,11560,Revenge,40.70,6,Hero,DEF 8%,,ATK +11,DEF +12,Accuracy 4%,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 14:43,"Dragon's Lair B10",Win,2:35,4390,0,0,Rune,5*,15300,Violent,51.48,4,Hero,HP +270,DEF +12,CRI Dmg 5%,ATK 6%,HP 4%,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 14:46,"Dragon's Lair B10",Win,2:57,4268,0,1,Rune,6*,12680,Endure,46.30,2,Rare,HP +360,,DEF 5%,CRI Dmg 6%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 14:53,"Dragon's Lair B10",Win,2:49,3812,0,2,Rune,6*,12680,Focus,51.36,5,Rare,HP +360,CRI Dmg 6%,SPD +4,CRI Rate 4%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 14:56,"Dragon's Lair B10",Win,2:29,4380,0,0,Rune,5*,9520,Revenge,41.20,5,Rare,HP +270,,ATK +10,HP 5%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 14:58,"Dragon's Lair B10",Win,2:17,4095,0,0,Rune,5*,12240,Shield,43.20,4,Hero,HP 8%,,ATK 6%,Accuracy 6%,CRI Rate 3%,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 15:01,"Dragon's Lair B10",Win,2:30,4150,0,0,Rune,5*,10115,Revenge,35.78,6,Rare,Accuracy 9%,,HP 5%,DEF +8,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 15:04,"Dragon's Lair B10",Win,2:22,4447,0,1,Rainbowmon 2,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 15:07,"Dragon's Lair B10",Win,3:11,4021,0,3,Rune,5*,13600,Revenge,42.89,2,Hero,ATK 8%,,CRI Dmg 5%,HP +185,DEF 6%,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 15:12,"Dragon's Lair B10",Win,2:59,4247,1,0,Rune,6*,25360,Shield,48.97,2,Rare,ATK 11%,ATK +10,HP +227,DEF 6%,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 15:18,"Dragon's Lair B10",Win,2:40,4489,0,0,Symbol of Harmony x6,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 15:22,"Dragon's Lair B10",Win,2:29,3968,0,0,Rune,5*,6800,Endure,46.84,5,Hero,HP +270,,HP 6%,CRI Dmg 5%,DEF +9,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 15:25,"Dragon's Lair B10",Win,2:39,4290,0,1,Rune,5*,7225,Guard,43.23,6,Rare,ATK +15,CRI Rate 3%,Resistance 4%,SPD +5,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-23 15:28,"Dragon's Lair B10",Win,2:30,4358,0,1,Symbol of Harmony x5,,,,,,,,,,,,,Verdehile,Veromos,Megan,Belladeon,Sigmarus
+2017-08-24 09:57,"Giant's Keep B10",Win,1:56,3307,0,4,Rune,5*,6502,Blade,39.96,6,Rare,ATK +15,Resistance 4%,CRI Rate 3%,Accuracy 3%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 09:59,"Giant's Keep B10",Win,1:50,3920,0,1,Rune,6*,12680,Swift,48.81,2,Rare,HP 11%,,DEF 8%,CRI Rate 5%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:03,"Giant's Keep B10",Win,1:51,3610,0,0,Symbol of Transcendance x6,,,,,,,,,,,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:05,"Giant's Keep B10",Win,1:50,3599,0,1,Rune,5*,6120,Swift,38.07,4,Rare,CRI Dmg 8%,,HP +147,ATK 7%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:07,"Giant's Keep B10",Win,1:32,3521,0,0,Symbol of Chaos x5,,,,,,,,,,,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:10,"Giant's Keep B10",Win,1:56,3450,0,1,Rune,5*,6375,Swift,43.91,3,Rare,DEF +15,Resistance 6%,CRI Dmg 3%,HP 6%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:12,"Giant's Keep B10",Win,1:43,3800,0,0,Rune,5*,16150,Despair,49.16,1,Hero,ATK +15,HP +155,HP 7%,CRI Rate 3%,Accuracy 7%,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:15,"Giant's Keep B10",Win,2:11,3900,0,0,Rune,5*,6120,Fatal,44.06,5,Rare,HP +270,Accuracy 4%,ATK +8,HP 5%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:17,"Giant's Keep B10",Win,2:00,4205,0,1,Rune,5*,8500,Swift,44.57,2,Hero,DEF 8%,,CRI Rate 4%,ATK +13,HP 7%,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:19,"Giant's Keep B10",Win,1:49,3974,0,0,Summoning Stones x3,,,,,,,,,,,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:22,"Giant's Keep B10",Win,1:52,4419,0,0,Rune,5*,13770,Despair,40.85,4,Rare,ATK +15,HP 5%,Accuracy 3%,CRI Rate 3%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:26,"Giant's Keep B10",Win,2:03,3698,1,1,Symbol of Harmony x9,,,,,,,,,,,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:31,"Giant's Keep B10",Win,1:25,3581,0,2,Rune,5*,5355,Fatal,35.70,4,Rare,DEF 8%,,SPD +3,DEF +9,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-24 10:33,"Giant's Keep B10",Win,1:50,3656,0,1,Rune,6*,8321,Fatal,47.03,3,Rare,DEF +22,,CRI Dmg 7%,HP +219,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 09:41,Hall of Magic B10,Win,1:18,2777,0,0,Essence of Magic(Mid) x3,,,,,,,,,,,,,Verdehile,Veromos,Belladeon,Megan,Sigmarus
+2017-08-25 09:43,"Giant's Keep B10",Win,2:00,4540,0,0,Rune,6*,14265,Fatal,56.25,2,Rare,ATK +22,DEF 8%,Resistance 8%,Accuracy 7%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 09:46,"Giant's Keep B10",Win,1:44,3551,0,0,Rune,5*,7650,Fatal,40.67,2,Rare,ATK +15,DEF +12,HP 4%,Accuracy 3%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 09:48,"Giant's Keep B10",Win,1:53,3833,0,1,Rune,6*,15850,Swift,52.56,2,Rare,ATK 11%,CRI Rate 5%,Accuracy 5%,ATK +18,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 09:50,"Giant's Keep B10",Win,1:51,3766,0,2,Rune,5*,8415,Blade,50.22,4,Hero,HP +270,CRI Rate 4%,DEF +15,CRI Dmg 4%,ATK +8,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 09:52,"Giant's Keep B10",Win,1:51,4110,0,1,Rainbowmon 2,,,,,,,,,,,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 09:55,"Giant's Keep B10",Win,1:39,3923,0,0,Rune,5*,6120,Blade,46.58,5,Rare,HP +270,Resistance 6%,DEF +14,CRI Dmg 3%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 09:58,"Giant's Keep B10",Win,2:21,3526,0,2,Rune,5*,4760,Fatal,44.18,5,Rare,HP +270,,CRI Rate 4%,Resistance 7%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 10:00,"Giant's Keep B10",Win,1:51,4180,0,1,Rune,5*,6375,Swift,44.42,3,Rare,DEF +15,CRI Rate 4%,SPD +5,Accuracy 4%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 10:03,"Giant's Keep B10",Win,1:51,3726,0,0,Rune,5*,13005,Despair,41.17,6,Rare,DEF 8%,ATK +11,CRI Rate 4%,HP 4%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 10:05,"Giant's Keep B10",Win,1:45,3764,0,0,Mystical Scroll,,,,,,,,,,,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 10:25,"Giant's Keep B10",Win,2:01,3943,0,0,Symbol of Harmony x10,,,,,,,,,,,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 10:27,"Giant's Keep B10",Win,1:45,4051,0,0,Mystical Scroll,,,,,,,,,,,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 10:31,"Giant's Keep B10",Win,1:54,4018,1,2,Symbol of Chaos x4,,,,,,,,,,,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
+2017-08-25 11:39,"Giant's Keep B10",Win,1:59,4058,0,2,Rune,5*,6800,Energy,41.47,2,Rare,ATK 8%,SPD +5,DEF +11,Resistance 3%,,,Sigmarus,Hwa,Belladeon,Lushen,Megan
