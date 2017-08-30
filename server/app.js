@@ -16,7 +16,7 @@ app.get('/api/food-map', (req, result) => {
 });
 
 app.get('/api/summoners-war', (req, result) => {
-  client.query('select * from sw where date in (select max(date) from sw group by dungeon) order by date desc limit 10', (err, res) => {
+  client.query('select * from sw where date in (select max(date) from sw group by dungeon) order by date desc limit 8', (err, res) => {
     if (err) {
       console.log(err.stack);
     } else {
