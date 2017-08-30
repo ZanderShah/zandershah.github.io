@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 
 const divs = {
-  border: '1px solid black',
+  // border: '1px solid black',
   margin: '10px',
-  textAlign: 'center',
+  textAlign: 'left',
 }
 
 const imgs = {
-  height: '144px',
-  width: '144px',
+  height: '104px',
+  width: '104px',
   margin: '10px',
 }
 
@@ -23,7 +23,7 @@ class SummonersWarCard extends Component {
   render = () => {
     return (
       <div style={divs}>
-        <h1>{this.props.run.dungeon} => {this.props.run.time}</h1>
+        <h3 style={{marginBottom: '5px'}}>{this.props.run.dungeon} <span style={{color: 'indianred'}}>=></span> {this.props.run.time}</h3>
         {this.state.team.map((monster) => {
           if (monster) {
             return (

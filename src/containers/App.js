@@ -27,9 +27,6 @@ class App extends Component {
       <div>
         <nav>
           <ul style={uls}>
-            <li style={{float: 'right'}}>
-              <span style={{...tabs, ...{backgroundColor: 'indianred', color: '#111'}}}>ZS</span>
-            </li>
             <li style={{float: 'left'}}>
               <NavHoverable to='/' style={tabs}>Home</NavHoverable>
             </li>
