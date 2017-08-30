@@ -7,8 +7,8 @@ const divs = {
 }
 
 const imgs = {
-  height: '100px',
-  width: '100px',
+  height: '144px',
+  width: '144px',
   margin: '10px',
 }
 
