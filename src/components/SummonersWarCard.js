@@ -1,11 +1,9 @@
 import React, { Component } from 'react';
 
 const divs = {
-  width: '720px',
   border: '1px solid black',
   margin: '10px',
   textAlign: 'center',
-  display: 'inline-block',
 }
 
 const imgs = {
