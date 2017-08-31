@@ -10,7 +10,7 @@ const divs = {
 const imgs = {
   height: '104px',
   width: '104px',
-  margin: '5px',
+  marginLeft: '5px',
 }
 
 class SummonersWarCard extends Component {
