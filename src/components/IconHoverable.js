@@ -10,7 +10,7 @@ class IconHoverable extends Component {
 
   style = () => {
     return {
-      color: this.state.hovered ? 'indianred' : 'black',
+      color: this.state.hovered ? '#dd7d81' : 'black',
       padding: '5px',
     }
   }

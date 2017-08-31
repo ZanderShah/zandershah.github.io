@@ -1,10 +1,13 @@
 import React, { Component } from 'react';
 import { Map, Marker, Popup, TileLayer } from 'react-leaflet';
 import LegendControl from '../components/LegendControl';
+import MarkerIcon from '../utils/marker-icon.png';
+import L from 'leaflet';
 
-const position = [43.650270, -79.388800];
+const position = [43.648270, -79.388800];
 const lightUrl = 'https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=';
 const darkUrl = 'https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?access_token=';
+const icon = L.icon({...L.Icon.Default.prototype.options, ...{iconUrl: MarkerIcon, shadowUrl: 'http://cdnjs.cloudflare.com/ajax/libs/leaflet/1.1.0/images/marker-shadow.png'}});
 
 const lis = {
   padding: '5px',
@@ -36,7 +39,7 @@ class Food extends Component {
           <Map center={position} zoom={17} style={{flexGrow: 1}} attributionControl={false}>
             <TileLayer url={darkUrl + this.state.token} attribution='' />
             {this.state.meals.map((meal, i) =>
-              <Marker key={i} position={meal['position']} color='red' style={{color: 'red'}}>
+              <Marker key={i} position={meal['position']} icon={icon}>
                 <Popup>
                   <h5>{meal['name']}</h5>
                 </Popup>

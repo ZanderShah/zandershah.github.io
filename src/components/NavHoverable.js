@@ -12,7 +12,7 @@ class NavHoverable extends Component {
   style = () => {
     if (this.state.hovered) {
       return {
-        color: 'indianred'
+        color: '#dd7d81'
       }
     } else {
       return {}
@@ -33,7 +33,7 @@ class NavHoverable extends Component {
 
   render = () => {
     return (
-      <NavLink to={this.props.to} style={this.props.style} exact activeStyle={{color: 'indianred'}} onMouseOver={this.onMouseOver} onMouseOut={this.onMouseOut}> 
+      <NavLink to={this.props.to} style={this.props.style} exact activeStyle={{color: '#dd7d81'}} onMouseOver={this.onMouseOver} onMouseOut={this.onMouseOut}> 
         <span style={this.style()}>{this.props.children}</span>
       </NavLink>
     );

@@ -15,7 +15,7 @@ class Resume extends Component {
       <div style={{textAlign: 'center', paddingTop: '30vh'}}> 
         <h1 style={{...tight, ...{fontSize: '5.5vh'}}}>Alexander Shah</h1>
         <h3 style={{...tight, ...{fontSize: '3vh'}}}>Software Engineering</h3>
-        <hr style={{...tight, ...{width: '10px', border: '1px solid indianred', marginTop: '5px', marginBottom: '5px'}}}/>
+        <hr style={{...tight, ...{width: '10px', border: '1px solid #dd7d81', marginTop: '5px', marginBottom: '5px'}}}/>
         <h5 style={{...tight, ...{fontSize: '2.25vh', marginBottom: '10px'}}}>University of Waterloo</h5>
 
         <IconHoverable link='https://www.github.com/zandershah'><FaGithub size='42px' /></IconHoverable>
