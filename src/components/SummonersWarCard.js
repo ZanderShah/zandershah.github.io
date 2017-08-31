@@ -1,15 +1,16 @@
 import React, { Component } from 'react';
 
 const divs = {
-  // border: '1px solid black',
+  // border: '1px solid indianred',
   margin: '10px',
   textAlign: 'left',
+  display: 'inline-block',
 }
 
 const imgs = {
   height: '104px',
   width: '104px',
-  margin: '10px',
+  margin: '5px',
 }
 
 class SummonersWarCard extends Component {
@@ -23,14 +24,10 @@ class SummonersWarCard extends Component {
   render = () => {
     return (
       <div style={divs}>
-        <h3 style={{marginBottom: '5px'}}>{this.props.run.dungeon} <span style={{color: 'indianred'}}>=></span> {this.props.run.time}</h3>
-        {this.state.team.map((monster) => {
-          if (monster) {
-            return (
-              <img src={`http://summonerswar.zenira.com/common/images/monsters/icons/${monster}.png`} alt={monster} style={imgs} />
-            )
-          }
-        })}
+        <h2 style={{margin: '5px'}}>{this.props.run.dungeon} <span style={{color: 'indianred'}}>=></span> {this.props.run.time}</h2>
+        {this.state.team.map((monster) =>
+          <img src={monster ? `http://summonerswar.zenira.com/common/images/monsters/icons/${monster}.png`: 'https://puu.sh/xnE6a/bca4a9f7d4.png'} alt={monster} style={imgs} />
+        )}
       </div>
     )
   }

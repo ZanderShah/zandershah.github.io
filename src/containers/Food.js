@@ -4,6 +4,7 @@ import LegendControl from '../components/LegendControl';
 
 const position = [43.650270, -79.388800];
 const lightUrl = 'https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=';
+const darkUrl = 'https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?access_token=';
 
 const lis = {
   padding: '5px',
@@ -33,7 +34,7 @@ class Food extends Component {
       return (
         <div id='mapbox-div'>
           <Map center={position} zoom={17} style={{flexGrow: 1}} attributionControl={false}>
-            <TileLayer url={lightUrl + this.state.token} attribution='' />
+            <TileLayer url={darkUrl + this.state.token} attribution='' />
             {this.state.meals.map((meal, i) =>
               <Marker key={i} position={meal['position']} color='red' style={{color: 'red'}}>
                 <Popup>
@@ -49,7 +50,7 @@ class Food extends Component {
                 <li style={{...lis, ...{borderBottom: 0}}}>Soon</li>
               </ul>
             </LegendControl>
-            </Map>
+          </Map>
         </div>
       );
     } else {

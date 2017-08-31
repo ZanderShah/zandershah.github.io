@@ -21,7 +21,7 @@ class SummonersWar extends Component {
   render = () => {
     if (this.state.runs) {
       return (
-        <div style={{textAlign: 'center'}}>
+        <div>
           {this.state.runs.map((row) => 
             <SummonersWarCard run={row} />
           )}
