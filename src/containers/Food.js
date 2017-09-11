@@ -7,7 +7,7 @@ import L from 'leaflet';
 const position = [43.648270, -79.388800];
 const lightUrl = 'https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=';
 const darkUrl = 'https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?access_token=';
-const icon = L.icon({...L.Icon.Default.prototype.options, ...{iconUrl: MarkerIcon, shadowUrl: 'http://cdnjs.cloudflare.com/ajax/libs/leaflet/1.1.0/images/marker-shadow.png'}});
+const icon = L.icon({...L.Icon.Default.prototype.options, ...{iconUrl: MarkerIcon, iconRetinaUrl: MarkerIcon, shadowUrl: 'http://cdnjs.cloudflare.com/ajax/libs/leaflet/1.1.0/images/marker-shadow.png'}});
 
 const lis = {
   padding: '5px',
