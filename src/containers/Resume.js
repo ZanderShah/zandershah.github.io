@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import IconHoverable from '../components/IconHoverable';
 import { FaFacebook, FaGithub, FaTwitter, FaLinkedin, FaFileTextO } from 'react-icons/lib/fa';
-import PDF from '../resume.pdf';
+import PDF from '../utils/resume.pdf';
 
 const tight = {
   marginTop: 0,

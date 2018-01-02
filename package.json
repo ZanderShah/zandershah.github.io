@@ -1,26 +1,22 @@
 {
-  "name": "react-zandershah",
+  "name": "react-flask-zandershah",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "body-parser": "^1.17.2",
-    "express": "^4.15.4",
-    "leaflet": "^1.2.0",
-    "pg": "^7.1.2",
-    "prop-types": "^15.5.10",
-    "react": "^15.6.1",
-    "react-bootstrap": "^0.31.1",
-    "react-dom": "^15.6.1",
-    "react-icons": "^2.2.5",
-    "react-leaflet": "^1.4.1",
-    "react-parallax": "^1.4.4",
-    "react-router-dom": "^4.1.2",
-    "react-scripts": "1.0.10"
+    "gh-pages": "^1.1.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-icons": "^2.2.7",
+    "react-scripts": "1.0.17",
+    "webpack": "^3.10.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "homepage": "https://zandershah.github.io"
 }
