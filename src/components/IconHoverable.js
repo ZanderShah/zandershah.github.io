@@ -13,7 +13,7 @@ class IconHoverable extends Component {
       textDecoration: 'none',
       borderTop: this.state.hovered ? '2px solid black' : '2px solid transparent',
       borderBottom: this.state.hovered ? '2px solid black' : '2px solid transparent',
-      color: 'black',
+      color: '#181818',
       padding: '5px',
       margin: '5px',
       display: 'block',

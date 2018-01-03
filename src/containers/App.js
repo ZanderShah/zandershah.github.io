@@ -6,7 +6,7 @@ import PDF from '../utils/resume.pdf';
 const tight = {
   margin: 10,
   padding: 0,
-  color: 'black'
+  color: '#181818'
 }
 
 const uls = {
@@ -56,7 +56,6 @@ class App extends Component {
           position: 'fixed',
           bottom: '5px',
           width: '100%',
-          color: 'black',
           listStyleType: 'none',
           overflow: 'hidden',
         }}}>
