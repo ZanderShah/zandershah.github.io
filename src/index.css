@@ -1,0 +1,45 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#background {
+  -webkit-animation: 100s scroll infinite linear;
+  -moz-animation: 100s scroll infinite linear;
+  -o-animation: 100s scroll infinite linear;
+  -ms-animation: 100s scroll infinite linear;
+  animation: 100s scroll infinite linear;
+  height: 100%;
+  background-position: center bottom;
+}
+
+@-webkit-keyframes scroll {
+  100% {
+    background-position:-3000px 0px;
+  }
+}
+
+@-moz-keyframes scroll {
+  100% {
+    background-position:-3000px 0px;
+  }
+}
+
+@-o-keyframes scroll {
+  100% {
+    background-position:-3000px 0px;
+  }
+}
+
+@-ms-keyframes scroll {
+  100% {
+    background-position:-3000px 0px;
+  }
+}
+
+@keyframes scroll {
+  100% {
+    background-position:-3000px 0px;
+  }
+}

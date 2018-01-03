@@ -10,8 +10,13 @@ class IconHoverable extends Component {
 
   style = () => {
     return {
-      color: this.state.hovered ? '#dd7d81' : 'black',
+      textDecoration: 'none',
+      borderTop: this.state.hovered ? '2px solid black' : '2px solid transparent',
+      borderBottom: this.state.hovered ? '2px solid black' : '2px solid transparent',
+      color: 'black',
       padding: '5px',
+      margin: '5px',
+      display: 'block',
     }
   }
 
@@ -29,7 +34,7 @@ class IconHoverable extends Component {
 
   render = () => {
     return (
-      <a href={this.props.link} className={this.props.className} onMouseOver={this.onMouseOver} onMouseOut={this.onMouseOut}> 
+      <a href={this.props.link} className={this.props.className} onMouseOver={this.onMouseOver} onMouseOut={this.onMouseOut} style={{textDecoration: 'none'}}> 
         <span style={this.style()}>{this.props.children}</span>
       </a>
     );
