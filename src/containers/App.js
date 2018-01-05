@@ -26,17 +26,17 @@ class App extends Component {
     let title = null, subTitle = null, footer = null;
 
     if (this.props.small) {
-      title = { fontSize: '38px', marginBottom: '20px' };
+      title = { fontSize: '38px', marginBottom: '20px', paddingTop: '30px' };
       subTitle = { fontSize: '14px' };
       footer = { fontSize: '12px' };
     } else {
-      title = { fontSize: '60px', marginBottom: '64px' };
+      title = { fontSize: '60px', marginBottom: '64px', paddingTop: '78px' };
       subTitle = { fontSize: '28px' };
       footer = { fontSize: '20px' };
     }
 
     return (
-      <div style={{textAlign: 'center', paddingTop: '10vh'}}> 
+      <div style={{textAlign: 'center'}}> 
         <h1 style={{...tight, ...title}}>Alexander Shah!</h1>
         <h3 style={{...tight, ...subTitle}}>
           2B Software Engineering
