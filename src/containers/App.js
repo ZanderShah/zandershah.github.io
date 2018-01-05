@@ -23,37 +23,21 @@ const inline = {
 
 class App extends Component {
   render() {
-    let title = null;
-    let subTitle = null;
-    let footer = null;
+    let title = null, subTitle = null, footer = null;
 
     if (this.props.small) {
-      title = {
-        fontSize: '38px',
-      };
-      subTitle = {
-        fontSize: '14px',
-      };
-      footer = {
-        fontSize: '12px',
-      };
+      title = { fontSize: '38px', marginBottom: '20px' };
+      subTitle = { fontSize: '14px' };
+      footer = { fontSize: '12px' };
     } else {
-      title = {
-        fontSize: '60px',
-      };
-      subTitle = {
-        fontSize: '28px'
-      };
-      footer = {
-        fontSize: '20px'
-      };
+      title = { fontSize: '60px', marginBottom: '64px' };
+      subTitle = { fontSize: '28px' };
+      footer = { fontSize: '20px' };
     }
 
     return (
       <div style={{textAlign: 'center', paddingTop: '10vh'}}> 
         <h1 style={{...tight, ...title}}>Alexander Shah!</h1>
-        <br />
-        <br />
         <h3 style={{...tight, ...subTitle}}>
           2B Software Engineering
           <br />
