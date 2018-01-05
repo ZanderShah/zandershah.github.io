@@ -16,6 +16,7 @@ class IconHoverable extends Component {
       color: '#181818',
       padding: '5px',
       margin: '5px',
+      marginTop: 0,
       display: 'block',
     }
   }
