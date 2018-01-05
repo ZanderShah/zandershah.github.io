@@ -27,15 +27,15 @@ class App extends Component {
     let subTitle = null;
     let footer = null;
 
-    if (this.props.mobile) {
+    if (this.props.small) {
       title = {
         fontSize: '38px',
       };
       subTitle = {
-        fontSize: '14px'
+        fontSize: '14px',
       };
       footer = {
-        fontSize: '12px'
+        fontSize: '12px',
       };
     } else {
       title = {
