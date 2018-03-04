@@ -1,0 +1,2 @@
+#root,body,html{height:100%;margin:0;padding:0}#background{position:fixed;-webkit-animation:100s scroll infinite linear;animation:100s scroll infinite linear;height:100%;width:100%;background-attachment:fixed;background-size:cover;background-position:bottom}@-webkit-keyframes scroll{to{background-position:-3000px 0}}@keyframes scroll{to{background-position:-3000px 0}}
+/*# sourceMappingURL=main.29e0b004.css.map*/
