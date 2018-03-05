@@ -5,7 +5,7 @@ import PDF from '../utils/resume.pdf';
 const tight = {
   margin: 10,
   padding: 0,
-  color: '#181818'
+  color: 'white'
 }
 
 const uls = {
@@ -36,7 +36,7 @@ class App extends Component {
     }
 
     return (
-      <div style={{textAlign: 'center'}}> 
+      <div style={{textAlign: 'center'}}>
         <h1 style={{...tight, ...title}}>Alexander Shah!</h1>
         <h3 style={{...tight, ...subTitle}}>
           2B Software Engineering
