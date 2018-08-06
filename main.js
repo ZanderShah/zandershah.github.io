@@ -87,7 +87,6 @@ function animate() {
     feather.rotation.z += feather.opts.rotation.dz;
 
     if (feather.position.y >= 500) {
-      console.log(height);
       feather.position.set(
         (Math.random() - 0.5) * 30,
         (Math.random() - 0.5) * 20 - 200,
